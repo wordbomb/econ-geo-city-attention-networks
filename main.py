@@ -31,6 +31,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         country_code = sys.argv[1]
     else:
-        country_code = "us"  # Default country
+        country_code = "cn"  # Default country
 
     main(country_code)
