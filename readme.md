@@ -9,8 +9,8 @@ The study investigates how economic and geographical factors influence the colle
 ```
 econ-geo-city-attention-networks/
 │
-├── 1_Ranking_Calculation.py               # Step 1: Ranking calculation of city mentions
-├── 2_Regression_Analysis.py               # Step 2: Regression analysis
+├── 1_Ranking_Calculation.py                # Step 1: Ranking calculation of city mentions
+├── 2_Regression_Analysis.py                # Step 2: Regression analysis
 ├── 3_Community_Detection.py                # Step 3: Community detection algorithms (Louvain, LPA, LD, DN.)
 ├── 4_Community_Features.py                 # Step 4: Compute community-level features
 ├── 5_CPM.py                                # Step 5: Clique Percolation Method implementation
