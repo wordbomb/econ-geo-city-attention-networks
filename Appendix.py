@@ -4,38 +4,80 @@ import pandas as pd
 import os
 
 def run(country_path, config):
-    comment_file = os.path.join(country_path, 'data', 'comment_data_filter.xlsx')
-    data= pd.read_excel(comment_file)
-    
-    end_date = pd.to_datetime(config['end_date'])
-    data.set_index('Date Created', inplace=True)
-    records_per_week = data.resample('7D').size().reset_index(name='Record Count')
-    last_record_date = records_per_week['Date Created'].max()
-    days_in_last_period = (end_date - last_record_date).days
+    if config['country']=='us':
+        comment_file = os.path.join(country_path, 'data', 'comment_data_filter.xlsx')
+        data= pd.read_excel(comment_file)
+        
+        end_date = pd.to_datetime(config['end_date'])
+        data.set_index('Date Created', inplace=True)
+        records_per_week = data.resample('7D').size().reset_index(name='Record Count')
+        last_record_date = records_per_week['Date Created'].max()
+        days_in_last_period = (end_date - last_record_date).days
 
 
-    if days_in_last_period < 7:
-        records_per_week = records_per_week[:-1]
-    data.reset_index(inplace=True)
+        if days_in_last_period < 7:
+            records_per_week = records_per_week[:-1]
+        data.reset_index(inplace=True)
 
+        plt.figure(figsize=(10, 5.8))
+        plt.grid(False)
+        plt.plot(records_per_week['Date Created'], records_per_week['Record Count'], color='#8FBBD9', linewidth=5)
 
-    plt.figure(figsize=(10, 5.8))
-    plt.grid(False)
-    plt.plot(records_per_week['Date Created'], records_per_week['Record Count'], color='#8FBBD9', linewidth=5)
+        plt.ylabel('Number of mentions', fontsize=26) 
 
-    plt.ylabel('Number of mentions', fontsize=26) 
+        plt.gca().xaxis.set_major_locator(mdates.WeekdayLocator(interval=1))
+        plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%m-%d'))
+        plt.xticks(rotation=45)
 
-    plt.gca().xaxis.set_major_locator(mdates.WeekdayLocator(interval=1))
-    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%m-%d'))
-    plt.xticks(rotation=45)
-
-    plt.tick_params(axis='both', which='major', labelsize=20)
-    plt.tight_layout()
-    line_chart_file = os.path.join(country_path, 'results', 'Number of mentions.pdf')
-    plt.savefig(line_chart_file)
+        plt.tick_params(axis='both', which='major', labelsize=20)
+        plt.tight_layout()
+        line_chart_file = os.path.join(country_path, 'results', 'Number of mentions.pdf')
+        plt.savefig(line_chart_file)
     
     if config['country']=='cn':
-        pass
+        comment_file = os.path.join(country_path, 'data', 'comment and like.xlsx')
+
+        data = pd.read_excel(comment_file, dtype={'Date': str})
+
+        end_date = pd.to_datetime(config['end_date'])
+        year = end_date.year 
+
+        def parse_md(s):
+            s = str(s).strip()
+            s = s.replace('-', '.').replace('/', '.')
+            m, d = s.split('.')
+            m, d = int(m), int(d)
+            return pd.Timestamp(year=year, month=m, day=d)
+
+        data['Date'] = data['Date'].apply(parse_md)
+
+        data = data.sort_values('Date').set_index('Date')
+
+        data = data.loc[:end_date]
+
+        records_per_week = (
+            data['Likes']
+            .resample('7D')
+            .sum()
+            .reset_index(name='Likes')
+        )
+
+        plt.figure(figsize=(10, 5.8))
+        plt.grid(False)
+        plt.plot(records_per_week['Date'], records_per_week['Likes'], color='#8FBBD9', linewidth=5)
+
+
+        plt.ylabel('Number of likes', fontsize=26) 
+
+        plt.gca().xaxis.set_major_locator(mdates.WeekdayLocator(interval=1))
+        plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%m-%d'))
+        plt.xticks(rotation=45)
+
+        plt.tick_params(axis='both', which='major', labelsize=20)
+        plt.tight_layout()
+        line_chart_file = os.path.join(country_path, 'results', 'Number of likes.pdf')
+        plt.savefig(line_chart_file)
+
 
 
     # Load data

@@ -14,13 +14,13 @@ def main(country_code="us"):
 
     # Import each processing module and run with the country_path
     for module_name in [
-        "1_Ranking_Calculation",
-        "2_Regression_Analysis",
-        "3_Community_Detection",
-        "4_Community_Features",
-        "5_CPM",
-        "6_LDA",
-        "7_Economic_Indicators_Calculation",
+        # "1_Ranking_Calculation",
+        # "2_Regression_Analysis",
+        # "3_Community_Detection",
+        # "4_Community_Features",
+        # "5_CPM",
+        # "6_LDA",
+        # "7_Economic_Indicators_Calculation",
         "Appendix"
     ]:
         module = importlib.import_module(module_name)
@@ -31,6 +31,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         country_code = sys.argv[1]
     else:
-        country_code = "cn"  # Default country
+        country_code = "us"  # Default country
 
     main(country_code)
