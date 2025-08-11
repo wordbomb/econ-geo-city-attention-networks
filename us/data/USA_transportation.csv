@@ -1,0 +1,3144 @@
+State Name,State Abbr,County Name,Has Airport,Has Ferry Terminal,Has Train Station
+Nebraska,NE,Cuming County,0,0,0
+Washington,WA,Wahkiakum County,0,1,0
+New Mexico,NM,De Baca County,0,0,0
+Nebraska,NE,Lancaster County,1,0,1
+Nebraska,NE,Nuckolls County,0,0,0
+South Dakota,SD,Minnehaha County,1,0,0
+Texas,TX,Menard County,0,0,0
+California,CA,Sierra County,0,0,0
+Kentucky,KY,Clinton County,0,0,0
+Ohio,OH,Hancock County,1,0,0
+Texas,TX,Hale County,0,0,0
+Alabama,AL,Clay County,0,0,0
+Texas,TX,Armstrong County,0,0,0
+Ohio,OH,Allen County,0,0,0
+Georgia,GA,Mcduffie County,0,0,0
+Wisconsin,WI,Sauk County,0,1,1
+Arkansas,AR,Stone County,0,0,0
+Oregon,OR,Wallowa County,0,0,0
+Pennsylvania,PA,Beaver County,1,0,0
+Mississippi,MS,Jasper County,0,0,0
+Missouri,MO,Henry County,0,0,0
+Colorado,CO,Saguache County,0,0,0
+North Carolina,NC,Chatham County,0,0,0
+Utah,UT,Rich County,0,0,0
+Oklahoma,OK,Adair County,0,0,1
+Ohio,OH,Lake County,0,0,1
+Virginia,VA,Salem City,0,0,0
+Virginia,VA,Montgomery County,0,0,0
+Tennessee,TN,Hamilton County,1,1,1
+New Mexico,NM,Otero County,1,0,0
+New Mexico,NM,Catron County,0,0,0
+Alabama,AL,Marengo County,0,0,0
+Wyoming,WY,Lincoln County,0,0,0
+Missouri,MO,Barton County,0,0,0
+Texas,TX,Calhoun County,0,0,0
+Virginia,VA,Poquoson City,0,0,0
+West Virginia,WV,Pocahontas County,0,0,1
+Texas,TX,Clay County,0,0,0
+Virginia,VA,James City County,0,1,1
+Nebraska,NE,Keith County,0,0,0
+Nebraska,NE,Phelps County,0,0,1
+Louisiana,LA,Calcasieu Parish,1,0,1
+Louisiana,LA,Union Parish,0,0,0
+Oklahoma,OK,Sequoyah County,0,0,0
+Alabama,AL,Dekalb County,0,0,0
+New York,NY,Steuben County,0,0,0
+Pennsylvania,PA,Forest County,0,0,0
+Louisiana,LA,Tangipahoa Parish,0,0,1
+Virginia,VA,Stafford County,1,0,1
+Michigan,MI,Menominee County,0,0,0
+Indiana,IN,Jasper County,0,0,1
+Georgia,GA,Brantley County,0,0,0
+Georgia,GA,Lamar County,0,0,0
+Indiana,IN,Steuben County,0,0,0
+Texas,TX,Orange County,0,0,0
+Ohio,OH,Fayette County,0,0,0
+Massachusetts,MA,Hampshire County,0,0,1
+Kentucky,KY,Allen County,0,0,0
+North Carolina,NC,Alamance County,0,0,1
+Kansas,KS,Greenwood County,0,0,0
+Massachusetts,MA,Suffolk County,1,1,1
+Idaho,ID,Jefferson County,0,0,0
+Texas,TX,Gonzales County,0,0,0
+Tennessee,TN,Marion County,0,1,0
+Michigan,MI,Alpena County,1,0,0
+Kentucky,KY,Wayne County,0,0,0
+Tennessee,TN,White County,0,0,0
+Texas,TX,Fannin County,0,0,0
+Kansas,KS,Doniphan County,0,0,0
+Texas,TX,Kerr County,0,0,0
+Florida,FL,Hernando County,0,0,0
+Florida,FL,Wakulla County,0,0,0
+Florida,FL,Walton County,0,0,0
+Mississippi,MS,Chickasaw County,0,0,0
+Alaska,AK,Ketchikan Gateway Borough,1,1,1
+Michigan,MI,Clare County,0,0,0
+Kansas,KS,Republic County,0,0,0
+Florida,FL,Volusia County,1,0,1
+Oklahoma,OK,Canadian County,0,0,0
+Georgia,GA,Floyd County,1,0,0
+Nevada,NV,Churchill County,1,0,0
+Nebraska,NE,Webster County,0,0,0
+Illinois,IL,Hancock County,0,0,0
+South Dakota,SD,Hutchinson County,0,0,0
+Oregon,OR,Crook County,0,0,0
+Vermont,VT,Franklin County,0,1,1
+Michigan,MI,Marquette County,1,0,0
+North Carolina,NC,Davidson County,0,0,0
+Illinois,IL,Clay County,0,0,0
+Missouri,MO,Knox County,0,0,0
+Missouri,MO,Livingston County,0,0,0
+Pennsylvania,PA,Tioga County,0,0,0
+Nebraska,NE,Dakota County,0,0,0
+Michigan,MI,Leelanau County,0,0,0
+Virginia,VA,Surry County,0,1,0
+Texas,TX,Refugio County,0,0,0
+Ohio,OH,Butler County,0,0,1
+Georgia,GA,Terrell County,0,0,0
+Georgia,GA,Clayton County,1,0,1
+Wyoming,WY,Fremont County,1,0,0
+Indiana,IN,Ohio County,0,1,0
+Georgia,GA,Columbia County,0,0,0
+Colorado,CO,Sedgwick County,0,0,1
+Montana,MT,Musselshell County,0,0,0
+Pennsylvania,PA,Dauphin County,1,1,1
+South Dakota,SD,Moody County,0,0,0
+West Virginia,WV,Putnam County,0,0,0
+New Jersey,NJ,Sussex County,0,0,0
+Kansas,KS,Decatur County,0,0,0
+Indiana,IN,Perry County,0,0,0
+Mississippi,MS,Union County,0,0,0
+Nebraska,NE,Boyd County,0,0,0
+Minnesota,MN,Mille Lacs County,0,0,0
+North Dakota,ND,Walsh County,0,0,1
+Ohio,OH,Morgan County,0,0,0
+Ohio,OH,Portage County,0,0,0
+Wyoming,WY,Uinta County,1,0,0
+Nevada,NV,Humboldt County,1,0,1
+Texas,TX,Jim Hogg County,0,0,0
+Colorado,CO,Cheyenne County,0,0,0
+Oregon,OR,Clackamas County,0,1,1
+Arkansas,AR,Polk County,0,0,1
+Georgia,GA,Macon County,0,0,0
+Indiana,IN,Benton County,0,0,0
+Tennessee,TN,Morgan County,0,0,0
+South Dakota,SD,Douglas County,0,0,0
+Maryland,MD,Worcester County,0,0,0
+Illinois,IL,Wabash County,0,0,0
+Indiana,IN,Huntington County,0,0,0
+Kentucky,KY,Scott County,0,0,0
+Iowa,IA,Decatur County,0,0,0
+Indiana,IN,Wabash County,0,0,0
+Indiana,IN,Allen County,1,0,1
+Indiana,IN,Marshall County,0,0,0
+Nebraska,NE,Thomas County,0,0,0
+North Dakota,ND,Sioux County,0,0,0
+Texas,TX,Dimmit County,0,0,0
+Minnesota,MN,Fillmore County,0,0,0
+South Carolina,SC,Chester County,0,0,0
+Minnesota,MN,Lac Qui Parle County,0,0,0
+Utah,UT,Cache County,1,0,0
+Wisconsin,WI,Pierce County,0,0,0
+Georgia,GA,Charlton County,0,0,0
+Georgia,GA,Polk County,0,0,0
+Illinois,IL,Mclean County,1,0,1
+Maine,ME,Androscoggin County,0,0,0
+Idaho,ID,Kootenai County,1,0,1
+Nevada,NV,Clark County,1,0,1
+Kansas,KS,Phillips County,0,0,0
+Nebraska,NE,Holt County,0,0,0
+Missouri,MO,Johnson County,1,0,1
+Wisconsin,WI,La Crosse County,1,0,1
+Louisiana,LA,Caldwell Parish,0,0,0
+Kentucky,KY,Edmonson County,0,1,0
+Illinois,IL,Bond County,0,0,0
+Illinois,IL,Brown County,0,0,0
+Minnesota,MN,Mcleod County,0,0,0
+Wisconsin,WI,Dunn County,0,0,0
+Colorado,CO,Custer County,0,0,0
+Missouri,MO,Madison County,0,0,0
+Texas,TX,Nolan County,0,0,0
+Pennsylvania,PA,Wayne County,0,0,0
+New York,NY,Saratoga County,0,0,1
+Texas,TX,Brazos County,1,0,0
+Oklahoma,OK,Marshall County,0,0,0
+Maryland,MD,Allegany County,0,0,1
+West Virginia,WV,Wetzel County,0,0,0
+Wisconsin,WI,Jackson County,0,0,0
+Oregon,OR,Clatsop County,1,1,0
+Washington,WA,Lewis County,0,0,1
+New York,NY,Allegany County,0,0,0
+Iowa,IA,Cedar County,0,0,0
+Indiana,IN,Orange County,0,0,1
+Georgia,GA,Dekalb County,1,0,1
+Georgia,GA,Pickens County,0,0,0
+Montana,MT,Chouteau County,0,1,0
+Nebraska,NE,Brown County,0,0,0
+Tennessee,TN,Campbell County,0,0,0
+North Carolina,NC,Franklin County,0,0,0
+Maryland,MD,Baltimore City,0,1,1
+Kansas,KS,Lyon County,0,0,0
+Iowa,IA,Carroll County,0,0,0
+Louisiana,LA,Tensas Parish,0,0,0
+Tennessee,TN,Monroe County,0,1,0
+Kansas,KS,Hamilton County,0,0,0
+Iowa,IA,Pocahontas County,0,0,0
+Idaho,ID,Gem County,0,0,0
+Arkansas,AR,Independence County,0,0,0
+Arkansas,AR,Lonoke County,0,0,0
+Indiana,IN,Newton County,0,0,0
+Georgia,GA,Franklin County,0,0,0
+Florida,FL,Hendry County,0,0,0
+Georgia,GA,Taliaferro County,0,0,0
+Texas,TX,Jefferson County,1,0,1
+Montana,MT,Meagher County,0,0,0
+Colorado,CO,La Plata County,1,0,0
+Texas,TX,Bell County,1,0,1
+Mississippi,MS,Kemper County,0,0,0
+Arkansas,AR,Clark County,0,0,1
+Oregon,OR,Klamath County,1,0,1
+New York,NY,Oswego County,0,0,0
+Alabama,AL,Cherokee County,0,0,0
+Texas,TX,Bandera County,0,0,0
+Montana,MT,Rosebud County,0,0,0
+New Mexico,NM,Union County,0,0,0
+Michigan,MI,Schoolcraft County,0,0,0
+New York,NY,Ulster County,0,0,0
+New Jersey,NJ,Camden County,0,1,1
+Illinois,IL,Jersey County,0,1,0
+Virginia,VA,Hanover County,0,0,1
+Kansas,KS,Wallace County,0,0,0
+Michigan,MI,Alger County,0,0,0
+Arkansas,AR,Fulton County,0,0,0
+Texas,TX,Hidalgo County,1,1,0
+North Carolina,NC,Robeson County,1,0,0
+Michigan,MI,Newaygo County,0,0,0
+Oregon,OR,Morrow County,0,0,0
+Minnesota,MN,Todd County,0,0,1
+Arkansas,AR,Logan County,0,0,0
+North Carolina,NC,Lincoln County,0,0,0
+Arkansas,AR,Miller County,1,0,1
+Florida,FL,Orange County,1,1,1
+Colorado,CO,San Juan County,0,0,1
+Idaho,ID,Franklin County,0,0,0
+Georgia,GA,Carroll County,0,0,0
+Kansas,KS,Riley County,1,0,0
+Texas,TX,Schleicher County,0,0,0
+Virginia,VA,Russell County,0,0,0
+North Carolina,NC,Caldwell County,0,0,0
+Idaho,ID,Madison County,0,0,0
+Indiana,IN,Warrick County,0,0,0
+Kentucky,KY,Adair County,0,0,0
+Kentucky,KY,Gallatin County,0,0,0
+Kentucky,KY,Harrison County,0,0,0
+Maine,ME,Sagadahoc County,0,1,0
+Montana,MT,Sweet Grass County,0,0,0
+Texas,TX,Grayson County,1,0,0
+Pennsylvania,PA,Greene County,0,0,0
+Alaska,AK,Northwest Arctic Borough,1,0,0
+Kansas,KS,Ellis County,1,0,0
+Alabama,AL,Hale County,0,0,0
+Alabama,AL,Perry County,0,0,0
+Alabama,AL,Colbert County,1,0,0
+Kansas,KS,Pratt County,0,0,0
+Kentucky,KY,Bourbon County,0,0,0
+Tennessee,TN,Rutherford County,1,0,0
+Georgia,GA,Cook County,0,0,0
+Kansas,KS,Lane County,0,0,0
+Oklahoma,OK,Harper County,0,0,0
+Illinois,IL,Piatt County,0,0,0
+Texas,TX,Crosby County,0,0,0
+Alabama,AL,Greene County,0,0,0
+Idaho,ID,Clark County,0,0,0
+Iowa,IA,Kossuth County,0,0,0
+North Dakota,ND,Burke County,0,0,0
+North Carolina,NC,Durham County,0,0,1
+Iowa,IA,Harrison County,0,0,0
+Nebraska,NE,Keya Paha County,0,0,0
+Iowa,IA,Webster County,1,0,0
+Illinois,IL,Pope County,0,0,0
+Tennessee,TN,Smith County,0,0,0
+Virginia,VA,Henry County,0,0,0
+Virginia,VA,Alexandria City,0,1,1
+Iowa,IA,Jefferson County,0,0,0
+Montana,MT,Lewis And Clark County,1,0,0
+Utah,UT,Duchesne County,0,0,0
+Oklahoma,OK,Alfalfa County,0,0,0
+Texas,TX,Delta County,0,0,0
+Tennessee,TN,Trousdale County,0,0,0
+Kentucky,KY,Perry County,0,0,0
+South Dakota,SD,Deuel County,0,0,0
+Oregon,OR,Jackson County,1,0,0
+Texas,TX,Zavala County,0,0,0
+Nebraska,NE,Banner County,0,0,0
+Iowa,IA,Madison County,0,0,0
+Florida,FL,Broward County,1,1,1
+Georgia,GA,Toombs County,0,0,0
+Michigan,MI,Sanilac County,0,0,0
+Texas,TX,Rockwall County,0,0,0
+Michigan,MI,Wayne County,1,0,1
+Minnesota,MN,Nobles County,0,0,0
+Minnesota,MN,Aitkin County,0,0,0
+North Dakota,ND,Ramsey County,1,0,1
+North Carolina,NC,Person County,0,0,0
+Kansas,KS,Trego County,0,0,0
+Mississippi,MS,Washington County,1,0,0
+Texas,TX,Eastland County,0,0,0
+Mississippi,MS,Issaquena County,0,0,0
+Texas,TX,Dewitt County,0,0,0
+Texas,TX,Angelina County,1,0,1
+South Carolina,SC,Saluda County,0,0,0
+Missouri,MO,Maries County,0,0,0
+Arkansas,AR,Arkansas County,0,0,0
+Missouri,MO,Lawrence County,0,0,0
+Virginia,VA,Charlottesville City,0,0,1
+Illinois,IL,Bureau County,0,0,1
+Ohio,OH,Scioto County,0,0,0
+North Carolina,NC,Madison County,0,0,0
+Idaho,ID,Jerome County,0,0,0
+Ohio,OH,Vinton County,0,0,0
+Texas,TX,Mclennan County,1,0,1
+Idaho,ID,Custer County,0,1,0
+Iowa,IA,Howard County,0,0,0
+Florida,FL,Palm Beach County,1,1,1
+Georgia,GA,Lincoln County,0,0,0
+Alabama,AL,Butler County,0,0,0
+Tennessee,TN,Sumner County,0,0,0
+Virginia,VA,King And Queen County,0,0,0
+Arkansas,AR,Carroll County,0,0,0
+Virginia,VA,Waynesboro City,0,0,0
+Alaska,AK,Sitka City And Borough,1,1,0
+Oregon,OR,Multnomah County,1,0,1
+Tennessee,TN,Grundy County,0,0,0
+Minnesota,MN,Hubbard County,0,0,0
+North Dakota,ND,Sargent County,0,0,0
+New York,NY,St. Lawrence County,1,0,0
+Missouri,MO,Reynolds County,0,0,0
+California,CA,Sacramento County,1,1,1
+Ohio,OH,Paulding County,0,0,0
+Indiana,IN,Wells County,0,0,0
+Virginia,VA,Floyd County,0,0,0
+California,CA,Santa Barbara County,1,0,1
+West Virginia,WV,Boone County,0,0,0
+Mississippi,MS,Benton County,0,0,0
+Kentucky,KY,Crittenden County,0,1,0
+Iowa,IA,Palo Alto County,0,0,0
+Iowa,IA,Ringgold County,0,0,0
+North Carolina,NC,Randolph County,0,0,0
+Maryland,MD,Cecil County,0,0,1
+Indiana,IN,Warren County,0,0,0
+Nebraska,NE,Greeley County,0,0,0
+Nebraska,NE,Jefferson County,0,0,0
+Nebraska,NE,Saline County,0,0,0
+Kentucky,KY,Knott County,0,0,0
+Iowa,IA,Clinton County,0,0,0
+Minnesota,MN,Jackson County,0,0,1
+Minnesota,MN,Dodge County,0,0,0
+Minnesota,MN,Freeborn County,0,0,0
+California,CA,Calaveras County,0,0,0
+Massachusetts,MA,Barnstable County,1,1,1
+Virginia,VA,Middlesex County,0,0,0
+Pennsylvania,PA,Jefferson County,1,0,0
+Indiana,IN,Lake County,1,0,1
+Tennessee,TN,Bedford County,0,0,0
+Tennessee,TN,Clay County,0,0,0
+Illinois,IL,Coles County,0,0,1
+Tennessee,TN,Lauderdale County,0,0,0
+Oregon,OR,Baker County,1,0,1
+New York,NY,Schuyler County,0,0,0
+Michigan,MI,Van Buren County,0,0,1
+Illinois,IL,Mercer County,0,0,0
+Kentucky,KY,Lawrence County,0,0,0
+Kentucky,KY,Morgan County,0,0,0
+Kentucky,KY,Muhlenberg County,0,0,0
+Illinois,IL,Effingham County,0,0,1
+Tennessee,TN,Loudon County,0,0,0
+South Dakota,SD,Clark County,0,0,0
+Hawaii,HI,Honolulu County,1,1,1
+Florida,FL,Gilchrist County,0,0,0
+Indiana,IN,Tippecanoe County,1,0,1
+Pennsylvania,PA,Snyder County,0,0,0
+Texas,TX,Lamar County,1,0,0
+Florida,FL,Miami-Dade County,1,1,1
+Nebraska,NE,Dundy County,0,0,0
+Texas,TX,Leon County,0,0,0
+Colorado,CO,Pitkin County,1,0,0
+North Dakota,ND,Grand Forks County,1,0,1
+Indiana,IN,Laporte County,0,0,1
+Indiana,IN,Hamilton County,0,0,0
+Virginia,VA,Emporia City,0,0,0
+Oklahoma,OK,Lincoln County,0,0,0
+Kansas,KS,Greeley County,0,0,0
+Georgia,GA,Harris County,0,0,0
+Georgia,GA,Screven County,0,0,0
+Texas,TX,Stonewall County,0,0,0
+Ohio,OH,Henry County,0,0,0
+New Hampshire,NH,Grafton County,1,0,1
+Missouri,MO,Newton County,0,0,0
+Indiana,IN,Posey County,0,0,0
+Texas,TX,Mcmullen County,0,0,0
+Illinois,IL,Cumberland County,0,0,0
+Georgia,GA,Walton County,0,0,0
+Minnesota,MN,Pope County,0,0,0
+Virginia,VA,Rappahannock County,0,0,0
+Virginia,VA,Amherst County,0,0,0
+California,CA,Ventura County,1,1,1
+Illinois,IL,Crawford County,0,0,0
+Colorado,CO,Park County,0,0,0
+California,CA,Los Angeles County,1,1,1
+Arizona,AZ,Yuma County,1,0,1
+Georgia,GA,Gordon County,0,0,0
+Iowa,IA,Calhoun County,0,0,0
+Florida,FL,Highlands County,0,0,1
+Virginia,VA,Covington City,0,0,0
+Vermont,VT,Orange County,0,0,1
+Kansas,KS,Mcpherson County,0,0,0
+Arizona,AZ,Pinal County,0,0,1
+Ohio,OH,Fulton County,0,0,0
+Colorado,CO,Alamosa County,1,0,0
+Florida,FL,Citrus County,0,0,0
+Tennessee,TN,Dekalb County,0,0,0
+Pennsylvania,PA,Clarion County,0,0,0
+South Dakota,SD,Miner County,0,0,0
+South Dakota,SD,Jerauld County,0,0,0
+Indiana,IN,Decatur County,0,0,0
+Indiana,IN,Dubois County,0,0,0
+Virginia,VA,Essex County,0,0,0
+South Carolina,SC,Williamsburg County,0,0,1
+New York,NY,Essex County,0,1,1
+Iowa,IA,Worth County,0,0,0
+Oklahoma,OK,Hughes County,0,0,0
+Virginia,VA,Buchanan County,0,0,0
+Virginia,VA,Alleghany County,0,0,1
+Mississippi,MS,Lowndes County,1,0,0
+Indiana,IN,Scott County,0,0,0
+Colorado,CO,Prowers County,1,0,1
+Texas,TX,Sutton County,1,0,0
+Oklahoma,OK,Muskogee County,0,0,0
+Missouri,MO,Christian County,0,0,0
+Mississippi,MS,Lamar County,0,0,0
+Indiana,IN,Ripley County,0,0,0
+North Dakota,ND,Mercer County,0,0,0
+Georgia,GA,Hart County,0,0,0
+Louisiana,LA,Jackson Parish,0,0,0
+Virginia,VA,Northumberland County,0,1,0
+Texas,TX,Fort Bend County,1,0,0
+Wisconsin,WI,Green Lake County,0,0,0
+Montana,MT,Pondera County,0,0,0
+Wisconsin,WI,Walworth County,0,0,1
+Nevada,NV,Mineral County,0,0,0
+Illinois,IL,Fulton County,0,0,0
+New York,NY,Suffolk County,1,1,1
+Indiana,IN,Union County,0,0,0
+Missouri,MO,Mcdonald County,0,0,0
+Nebraska,NE,Scotts Bluff County,1,0,0
+New Mexico,NM,San Miguel County,1,0,1
+Alabama,AL,Lee County,0,0,0
+Texas,TX,Parker County,0,0,0
+North Dakota,ND,Dickey County,0,0,0
+North Dakota,ND,Barnes County,0,0,0
+Minnesota,MN,Sibley County,0,0,0
+Georgia,GA,Upson County,0,0,0
+California,CA,Sonoma County,1,0,1
+Michigan,MI,Chippewa County,1,1,0
+Idaho,ID,Bonneville County,1,0,0
+Georgia,GA,Barrow County,0,0,0
+Georgia,GA,Long County,0,0,0
+Texas,TX,Kinney County,0,0,0
+Oklahoma,OK,Ottawa County,0,0,0
+Pennsylvania,PA,Clearfield County,0,0,0
+Michigan,MI,Clinton County,1,0,0
+Illinois,IL,Montgomery County,0,0,0
+Mississippi,MS,Alcorn County,0,0,0
+Mississippi,MS,Lafayette County,1,0,0
+Louisiana,LA,Grant Parish,0,0,0
+Missouri,MO,Atchison County,0,0,0
+Illinois,IL,Macon County,1,0,0
+Michigan,MI,St. Joseph County,0,0,0
+Illinois,IL,Franklin County,0,0,0
+Montana,MT,Garfield County,0,0,0
+Nebraska,NE,Adams County,0,0,1
+Minnesota,MN,Olmsted County,1,0,0
+New Jersey,NJ,Union County,0,0,1
+Alabama,AL,Mobile County,1,1,1
+South Dakota,SD,Mccook County,0,0,0
+Alabama,AL,Fayette County,0,0,0
+Alabama,AL,Chambers County,0,0,0
+North Carolina,NC,Northampton County,0,0,0
+Colorado,CO,Moffat County,0,0,0
+Kentucky,KY,Green County,0,0,0
+Indiana,IN,Franklin County,0,0,0
+North Carolina,NC,Beaufort County,0,1,0
+North Dakota,ND,Burleigh County,1,0,0
+North Carolina,NC,Rowan County,0,0,1
+Michigan,MI,Iron County,0,0,0
+Minnesota,MN,Kandiyohi County,0,0,0
+Kentucky,KY,Wolfe County,0,0,0
+Texas,TX,Fayette County,0,0,0
+South Dakota,SD,Lawrence County,0,0,0
+Maine,ME,Washington County,0,0,0
+Texas,TX,Briscoe County,0,0,0
+Michigan,MI,Ontonagon County,0,0,0
+Mississippi,MS,Carroll County,1,0,0
+Oregon,OR,Benton County,1,0,0
+Minnesota,MN,Rock County,0,0,0
+Pennsylvania,PA,Indiana County,0,0,0
+Louisiana,LA,Lincoln Parish,0,0,0
+Pennsylvania,PA,Perry County,0,0,0
+South Dakota,SD,Ziebach County,0,0,0
+Texas,TX,Harrison County,0,0,1
+Michigan,MI,Baraga County,0,0,0
+Oklahoma,OK,Rogers County,0,0,0
+Missouri,MO,Boone County,1,0,0
+Oklahoma,OK,Caddo County,0,0,0
+Colorado,CO,Jefferson County,1,0,1
+West Virginia,WV,Cabell County,0,0,1
+Texas,TX,Reagan County,0,0,0
+Arkansas,AR,Van Buren County,0,0,0
+Colorado,CO,Summit County,0,1,0
+Kansas,KS,Cowley County,0,0,0
+Arkansas,AR,Johnson County,0,0,0
+New York,NY,Hamilton County,0,0,0
+Virginia,VA,Craig County,0,0,0
+Texas,TX,Coleman County,0,0,0
+Alaska,AK,Yukon-Koyukuk Census Area,1,0,1
+Arizona,AZ,Navajo County,1,0,1
+Mississippi,MS,Lincoln County,0,0,0
+Texas,TX,Ochiltree County,0,0,0
+Texas,TX,Crane County,0,0,0
+Wyoming,WY,Big Horn County,0,0,0
+Tennessee,TN,Hickman County,0,0,0
+Mississippi,MS,Tunica County,0,0,0
+Missouri,MO,Harrison County,0,0,0
+Indiana,IN,Bartholomew County,1,0,0
+Georgia,GA,Paulding County,0,0,0
+Ohio,OH,Brown County,0,1,0
+Tennessee,TN,Putnam County,0,0,0
+North Dakota,ND,Ward County,1,0,1
+Massachusetts,MA,Worcester County,1,0,1
+Ohio,OH,Logan County,0,0,0
+California,CA,Kings County,1,0,1
+California,CA,San Diego County,1,1,1
+Georgia,GA,Crawford County,0,0,0
+Missouri,MO,Cass County,0,0,0
+New York,NY,Dutchess County,1,1,1
+Texas,TX,Washington County,0,0,0
+Colorado,CO,Pueblo County,1,0,0
+Missouri,MO,Douglas County,0,0,0
+North Dakota,ND,Bottineau County,0,0,0
+North Carolina,NC,Cumberland County,1,0,1
+Wyoming,WY,Hot Springs County,0,0,0
+Michigan,MI,Alcona County,0,0,0
+California,CA,Placer County,0,0,1
+Arkansas,AR,Searcy County,0,0,0
+Texas,TX,Lynn County,0,0,0
+New York,NY,Otsego County,0,0,1
+North Carolina,NC,Richmond County,0,0,1
+North Carolina,NC,Hoke County,0,0,0
+Nebraska,NE,Otoe County,0,0,0
+Pennsylvania,PA,Cameron County,0,1,0
+South Carolina,SC,Dorchester County,0,0,0
+Minnesota,MN,Waseca County,0,0,0
+South Dakota,SD,Brule County,0,0,0
+Tennessee,TN,Warren County,0,0,0
+Illinois,IL,Clark County,0,0,0
+Kentucky,KY,Robertson County,0,0,0
+Tennessee,TN,Lake County,0,0,0
+South Carolina,SC,Berkeley County,0,0,0
+Arkansas,AR,Garland County,1,0,0
+Kansas,KS,Osage County,0,0,0
+Ohio,OH,Trumbull County,1,0,0
+Texas,TX,Mills County,0,0,0
+Texas,TX,Oldham County,0,0,0
+Pennsylvania,PA,Butler County,0,0,0
+Idaho,ID,Idaho County,0,0,0
+Kansas,KS,Marion County,0,0,0
+Virginia,VA,Buckingham County,0,1,0
+North Carolina,NC,Cabarrus County,1,0,1
+Missouri,MO,Webster County,0,0,0
+Utah,UT,Davis County,1,0,1
+Minnesota,MN,Cottonwood County,0,0,0
+Florida,FL,Okeechobee County,0,0,1
+Georgia,GA,Union County,0,0,0
+Iowa,IA,Black Hawk County,1,0,0
+Texas,TX,Sabine County,0,0,0
+Ohio,OH,Pike County,0,0,0
+Alabama,AL,Tuscaloosa County,1,0,1
+Alabama,AL,Wilcox County,0,1,0
+Mississippi,MS,Montgomery County,0,0,0
+Nebraska,NE,Kearney County,0,0,0
+Nebraska,NE,Hitchcock County,0,0,0
+Delaware,DE,New Castle County,1,1,1
+Idaho,ID,Teton County,0,0,0
+Illinois,IL,Rock Island County,1,1,0
+Virginia,VA,Gloucester County,0,0,0
+Arkansas,AR,Sevier County,0,0,0
+Indiana,IN,Cass County,0,0,0
+Idaho,ID,Power County,1,0,0
+Indiana,IN,Carroll County,0,0,0
+Pennsylvania,PA,Philadelphia County,1,1,1
+Wyoming,WY,Washakie County,1,0,0
+North Carolina,NC,Camden County,0,0,0
+New York,NY,Tompkins County,1,0,0
+Arkansas,AR,Jefferson County,1,0,0
+Arkansas,AR,Lincoln County,0,0,0
+Wisconsin,WI,Vernon County,0,0,0
+Missouri,MO,Iron County,0,0,1
+Texas,TX,Hopkins County,0,0,0
+New York,NY,Albany County,1,0,0
+Texas,TX,Houston County,0,0,0
+Ohio,OH,Monroe County,0,1,0
+Kansas,KS,Rush County,0,0,0
+Indiana,IN,Montgomery County,0,0,1
+Kansas,KS,Stanton County,0,0,0
+Kentucky,KY,Lee County,0,0,0
+Minnesota,MN,Koochiching County,1,0,0
+Texas,TX,Bexar County,1,0,1
+Colorado,CO,Boulder County,0,0,0
+Tennessee,TN,Jefferson County,0,0,0
+Oklahoma,OK,Mayes County,0,0,0
+Minnesota,MN,Watonwan County,0,0,0
+Idaho,ID,Blaine County,1,0,0
+Louisiana,LA,Jefferson Davis Parish,0,0,0
+South Dakota,SD,Sully County,0,0,0
+Colorado,CO,Denver County,1,0,1
+Oklahoma,OK,Coal County,0,0,0
+Montana,MT,Carter County,0,0,0
+Texas,TX,Upton County,0,0,0
+Indiana,IN,Gibson County,0,0,0
+Nebraska,NE,Kimball County,0,0,0
+Illinois,IL,Kendall County,0,0,1
+District Of Columbia,DC,District Of Columbia,0,1,1
+Colorado,CO,Montrose County,1,0,0
+Minnesota,MN,Wright County,0,0,0
+Wisconsin,WI,Kenosha County,1,0,1
+Colorado,CO,Eagle County,1,0,0
+California,CA,San Francisco County,0,1,1
+Colorado,CO,San Miguel County,1,0,0
+Alaska,AK,Anchorage Municipality,1,1,1
+Florida,FL,St. Johns County,1,0,0
+Mississippi,MS,Choctaw County,0,0,0
+Missouri,MO,Grundy County,0,0,0
+Michigan,MI,Lake County,0,0,0
+Michigan,MI,Ottawa County,0,0,1
+Illinois,IL,Cook County,1,1,1
+Illinois,IL,Gallatin County,0,0,0
+South Carolina,SC,Greenwood County,0,0,0
+Kansas,KS,Franklin County,0,0,0
+Minnesota,MN,Clay County,0,0,0
+Tennessee,TN,Haywood County,0,0,0
+Utah,UT,Box Elder County,0,0,0
+Mississippi,MS,Tippah County,0,0,0
+West Virginia,WV,Marshall County,0,0,0
+West Virginia,WV,Jackson County,0,0,0
+Idaho,ID,Elmore County,1,0,0
+Maryland,MD,Baltimore County,1,0,1
+North Dakota,ND,Benson County,0,0,0
+Missouri,MO,Pike County,0,0,0
+Ohio,OH,Lawrence County,0,0,0
+Missouri,MO,Scott County,1,0,0
+Ohio,OH,Adams County,0,0,0
+Texas,TX,Erath County,0,0,0
+Georgia,GA,Habersham County,0,0,0
+Georgia,GA,Wilkinson County,0,0,0
+West Virginia,WV,Monongalia County,1,0,0
+Ohio,OH,Crawford County,0,0,0
+Florida,FL,Desoto County,0,0,0
+Ohio,OH,Guernsey County,0,0,1
+Michigan,MI,Barry County,0,0,0
+Missouri,MO,Stone County,0,1,0
+Virginia,VA,Richmond City,0,0,1
+North Carolina,NC,Stokes County,0,0,0
+Iowa,IA,Clarke County,0,0,0
+Iowa,IA,Fayette County,0,0,0
+California,CA,Marin County,0,1,1
+Texas,TX,Randall County,0,0,0
+Texas,TX,Rusk County,0,0,0
+Iowa,IA,Warren County,0,0,0
+Ohio,OH,Van Wert County,0,0,0
+Florida,FL,Glades County,0,0,0
+Georgia,GA,Meriwether County,0,0,0
+Colorado,CO,Costilla County,0,0,0
+Texas,TX,Coryell County,0,0,0
+Iowa,IA,Adair County,0,0,0
+Georgia,GA,Chattahoochee County,1,0,0
+California,CA,Mariposa County,0,0,0
+Missouri,MO,Howard County,0,0,0
+Oregon,OR,Marion County,1,1,1
+Wisconsin,WI,Milwaukee County,1,1,1
+Minnesota,MN,Scott County,0,0,1
+Ohio,OH,Pickaway County,0,0,0
+Virginia,VA,Powhatan County,0,0,0
+Colorado,CO,Broomfield County,0,0,0
+Tennessee,TN,Lawrence County,0,0,0
+Michigan,MI,Antrim County,0,0,0
+South Carolina,SC,Marlboro County,0,0,0
+Idaho,ID,Benewah County,0,0,0
+Illinois,IL,Lee County,0,0,0
+Nebraska,NE,Nemaha County,0,0,0
+North Carolina,NC,Carteret County,0,1,0
+Kansas,KS,Pottawatomie County,0,0,0
+Michigan,MI,Jackson County,1,0,1
+Texas,TX,Comal County,0,0,1
+Massachusetts,MA,Nantucket County,1,1,0
+South Carolina,SC,Bamberg County,0,0,1
+Texas,TX,Aransas County,0,0,0
+Georgia,GA,Berrien County,0,0,0
+Indiana,IN,Vermillion County,0,0,0
+Michigan,MI,Roscommon County,0,0,0
+North Carolina,NC,Alleghany County,0,0,0
+California,CA,Lassen County,0,0,0
+Virginia,VA,Falls Church City,0,0,0
+Florida,FL,Manatee County,1,0,0
+Ohio,OH,Muskingum County,1,0,0
+Colorado,CO,Chaffee County,0,0,0
+Colorado,CO,Crowley County,0,0,0
+Colorado,CO,Fremont County,0,0,1
+Mississippi,MS,Pearl River County,0,0,0
+Mississippi,MS,Perry County,0,0,0
+Nebraska,NE,Custer County,0,0,0
+Florida,FL,Calhoun County,0,0,0
+Kentucky,KY,Kenton County,0,0,0
+Iowa,IA,Chickasaw County,0,0,0
+Illinois,IL,Dekalb County,0,0,0
+Iowa,IA,Hancock County,0,0,0
+North Dakota,ND,Stark County,1,0,0
+Michigan,MI,Luce County,0,0,0
+Oklahoma,OK,Carter County,0,0,1
+North Carolina,NC,Pasquotank County,1,0,0
+New Mexico,NM,Taos County,1,0,0
+Mississippi,MS,Bolivar County,0,0,0
+Nevada,NV,Nye County,1,0,0
+Tennessee,TN,Hawkins County,0,0,0
+North Dakota,ND,Bowman County,0,0,0
+Pennsylvania,PA,Fulton County,0,0,0
+Louisiana,LA,Lafayette Parish,1,0,1
+Texas,TX,Jack County,0,0,0
+Illinois,IL,Stark County,0,0,0
+Oklahoma,OK,Greer County,0,0,0
+Texas,TX,Hemphill County,0,0,0
+Idaho,ID,Nez Perce County,1,0,0
+South Dakota,SD,Walworth County,1,0,0
+California,CA,Napa County,0,0,1
+Oklahoma,OK,Cotton County,0,0,0
+Missouri,MO,Washington County,0,0,0
+New York,NY,Cayuga County,0,0,0
+Texas,TX,Shackelford County,0,0,0
+Texas,TX,San Jacinto County,0,0,0
+Iowa,IA,Dubuque County,1,0,1
+Virginia,VA,Goochland County,0,0,0
+Kansas,KS,Sherman County,1,0,0
+Ohio,OH,Richland County,1,0,0
+Illinois,IL,Adams County,1,0,1
+Ohio,OH,Champaign County,0,0,0
+New Hampshire,NH,Sullivan County,0,0,1
+Illinois,IL,Iroquois County,0,0,1
+Iowa,IA,Poweshiek County,0,0,0
+Ohio,OH,Wayne County,0,0,0
+Georgia,GA,Fayette County,0,0,0
+Georgia,GA,Hancock County,0,0,0
+Texas,TX,Kendall County,0,0,0
+New York,NY,Greene County,0,0,0
+Virginia,VA,Orange County,0,0,0
+Oklahoma,OK,Mccurtain County,0,0,0
+Georgia,GA,Tift County,0,0,0
+Nebraska,NE,Cass County,0,0,0
+South Dakota,SD,Kingsbury County,0,0,0
+Wyoming,WY,Converse County,0,0,0
+New York,NY,Herkimer County,0,1,0
+North Dakota,ND,Logan County,0,0,0
+Michigan,MI,Gogebic County,0,0,0
+Minnesota,MN,Becker County,0,0,1
+Alabama,AL,Marshall County,0,0,0
+Tennessee,TN,Union County,0,0,0
+West Virginia,WV,Mineral County,0,0,0
+Wisconsin,WI,Ashland County,0,1,0
+Illinois,IL,Ford County,0,0,0
+North Dakota,ND,Emmons County,0,0,0
+California,CA,Shasta County,1,0,1
+Louisiana,LA,Vermilion Parish,0,0,0
+Arkansas,AR,Randolph County,0,0,0
+Wisconsin,WI,Oneida County,1,0,0
+Louisiana,LA,East Carroll Parish,0,0,0
+Louisiana,LA,East Feliciana Parish,0,0,0
+Louisiana,LA,St. Bernard Parish,0,1,0
+Texas,TX,Wharton County,0,0,0
+Alaska,AK,Prince Of Wales-Hyder Census Area,1,1,0
+Alaska,AK,Petersburg Borough,1,1,0
+Texas,TX,Floyd County,0,0,0
+Alaska,AK,Wrangell City And Borough,1,1,0
+Kentucky,KY,Madison County,1,1,0
+Tennessee,TN,Blount County,1,1,0
+Montana,MT,Gallatin County,1,0,0
+South Carolina,SC,Darlington County,0,0,0
+Alabama,AL,Escambia County,0,0,0
+Georgia,GA,Haralson County,0,0,0
+Kansas,KS,Allen County,0,0,0
+Illinois,IL,Douglas County,0,0,0
+Virginia,VA,Greene County,0,0,0
+Wisconsin,WI,Waushara County,0,0,0
+Arkansas,AR,Izard County,0,0,0
+California,CA,Monterey County,1,0,1
+New Mexico,NM,Grant County,1,0,0
+Missouri,MO,Miller County,0,0,0
+North Carolina,NC,Wilkes County,0,0,0
+Alaska,AK,Juneau City And Borough,1,1,0
+Missouri,MO,Platte County,1,0,0
+Missouri,MO,Buchanan County,1,0,0
+Alabama,AL,Limestone County,0,0,0
+Indiana,IN,Henry County,0,0,0
+Nebraska,NE,Polk County,0,0,0
+Ohio,OH,Ottawa County,1,1,0
+Minnesota,MN,Norman County,0,0,0
+Iowa,IA,Shelby County,0,0,0
+Maryland,MD,Carroll County,0,0,0
+Iowa,IA,Benton County,0,0,0
+Kentucky,KY,Martin County,0,0,0
+Minnesota,MN,Chisago County,0,0,0
+Kentucky,KY,Owsley County,0,0,0
+Pennsylvania,PA,Bradford County,0,0,0
+West Virginia,WV,Hancock County,0,0,0
+Missouri,MO,Cole County,0,0,1
+Michigan,MI,Berrien County,0,0,1
+Pennsylvania,PA,Huntingdon County,0,0,1
+Nebraska,NE,Dawes County,1,0,0
+Virginia,VA,Patrick County,0,0,0
+Michigan,MI,Montmorency County,0,0,0
+Michigan,MI,Oscoda County,0,0,0
+New Mexico,NM,Colfax County,0,0,1
+Illinois,IL,St. Clair County,1,0,0
+Illinois,IL,Washington County,0,0,1
+Pennsylvania,PA,Bedford County,0,0,0
+Arkansas,AR,Scott County,0,0,0
+Kansas,KS,Labette County,0,0,0
+Pennsylvania,PA,Lawrence County,0,0,0
+Ohio,OH,Harrison County,0,0,0
+North Carolina,NC,Alexander County,0,0,0
+New Jersey,NJ,Cape May County,1,1,1
+New Hampshire,NH,Cheshire County,1,0,0
+Minnesota,MN,Marshall County,0,0,0
+Virginia,VA,King William County,0,0,0
+Colorado,CO,Huerfano County,0,0,0
+Texas,TX,Karnes County,0,0,0
+Tennessee,TN,Chester County,0,0,0
+Illinois,IL,Scott County,0,0,0
+Utah,UT,Millard County,0,0,0
+Utah,UT,Morgan County,0,0,0
+Texas,TX,Kaufman County,0,0,0
+Arizona,AZ,Greenlee County,0,0,0
+Arizona,AZ,Maricopa County,1,0,1
+Michigan,MI,Ogemaw County,0,0,0
+Tennessee,TN,Jackson County,0,0,0
+Illinois,IL,Richland County,0,0,0
+Alabama,AL,Blount County,0,0,0
+Montana,MT,Liberty County,0,0,0
+Texas,TX,Duval County,0,0,0
+Missouri,MO,Ralls County,0,0,0
+Texas,TX,Johnson County,0,0,1
+Georgia,GA,Clay County,0,0,0
+Oregon,OR,Grant County,0,0,0
+Oregon,OR,Coos County,1,0,0
+Texas,TX,Franklin County,0,0,0
+New York,NY,Warren County,1,0,1
+Virginia,VA,Madison County,0,0,0
+Oklahoma,OK,Atoka County,0,0,0
+Illinois,IL,Menard County,0,0,0
+Georgia,GA,Bartow County,0,0,0
+Florida,FL,Lake County,1,0,0
+Oklahoma,OK,Okmulgee County,0,0,0
+North Dakota,ND,Sheridan County,0,0,0
+Indiana,IN,Fulton County,0,0,0
+Kansas,KS,Johnson County,0,0,0
+Maryland,MD,Calvert County,0,0,0
+Wisconsin,WI,Washburn County,0,0,0
+Washington,WA,Jefferson County,0,1,0
+Minnesota,MN,Winona County,0,0,1
+Mississippi,MS,Warren County,0,1,0
+Missouri,MO,Andrew County,0,0,0
+Missouri,MO,Montgomery County,0,0,0
+Kansas,KS,Cherokee County,0,0,0
+North Carolina,NC,Halifax County,0,0,0
+New Mexico,NM,Sandoval County,0,0,1
+Kentucky,KY,Clay County,0,0,0
+Pennsylvania,PA,Clinton County,0,0,0
+Oregon,OR,Linn County,0,0,0
+Wisconsin,WI,Lafayette County,0,0,0
+Oklahoma,OK,Washington County,0,0,0
+West Virginia,WV,Preston County,0,0,0
+Wisconsin,WI,Waupaca County,0,0,0
+Texas,TX,Edwards County,0,0,0
+Oregon,OR,Lake County,0,0,0
+Missouri,MO,Ozark County,0,0,0
+Texas,TX,Waller County,0,0,0
+Alabama,AL,Monroe County,0,0,0
+Vermont,VT,Essex County,0,0,0
+Virginia,VA,Lunenburg County,0,0,0
+North Dakota,ND,Traill County,0,0,0
+Georgia,GA,Hall County,0,0,1
+Georgia,GA,Treutlen County,0,0,0
+Georgia,GA,Calhoun County,0,0,0
+Wisconsin,WI,Vilas County,0,0,0
+Minnesota,MN,Beltrami County,1,0,0
+Maryland,MD,Dorchester County,0,0,0
+Pennsylvania,PA,Columbia County,0,0,0
+Ohio,OH,Clark County,1,0,0
+Texas,TX,Maverick County,0,0,0
+Arizona,AZ,Pima County,1,0,1
+New Mexico,NM,Cibola County,0,0,0
+New Jersey,NJ,Burlington County,1,0,0
+Vermont,VT,Rutland County,1,0,1
+Georgia,GA,Early County,0,0,0
+Massachusetts,MA,Dukes County,0,1,0
+North Dakota,ND,Mchenry County,0,0,0
+Nebraska,NE,Wayne County,0,0,0
+North Dakota,ND,Lamoure County,0,0,0
+Idaho,ID,Butte County,0,0,0
+New Hampshire,NH,Coos County,0,0,1
+North Dakota,ND,Kidder County,0,0,0
+Texas,TX,Kleberg County,1,0,0
+Indiana,IN,Porter County,1,0,1
+Mississippi,MS,Newton County,0,0,0
+North Carolina,NC,Sampson County,0,0,0
+Tennessee,TN,Moore County,0,0,0
+Florida,FL,Pinellas County,1,1,0
+Illinois,IL,Hamilton County,0,0,0
+Arkansas,AR,Perry County,0,0,0
+Kansas,KS,Cheyenne County,0,0,0
+Colorado,CO,Delta County,0,0,0
+Iowa,IA,Wayne County,0,0,0
+Texas,TX,Gaines County,0,0,0
+Alabama,AL,Marion County,0,0,0
+North Carolina,NC,Watauga County,0,0,0
+Virginia,VA,Roanoke City,1,0,1
+Texas,TX,Martin County,0,0,0
+Texas,TX,Bowie County,0,0,0
+Utah,UT,Weber County,1,0,1
+Missouri,MO,Marion County,0,0,0
+New York,NY,Jefferson County,1,1,0
+Iowa,IA,Jackson County,0,0,0
+North Dakota,ND,Nelson County,0,0,0
+New York,NY,Clinton County,1,1,1
+Colorado,CO,Garfield County,1,0,1
+Missouri,MO,Ray County,0,0,0
+Ohio,OH,Hocking County,0,0,0
+Alabama,AL,Lowndes County,0,0,0
+Georgia,GA,Candler County,0,0,0
+Iowa,IA,Linn County,1,0,0
+California,CA,Trinity County,0,0,0
+Georgia,GA,Muscogee County,1,0,0
+Mississippi,MS,Tallahatchie County,0,0,0
+Kansas,KS,Atchison County,0,0,0
+Texas,TX,Andrews County,0,0,0
+Ohio,OH,Miami County,0,0,1
+Texas,TX,Potter County,1,0,0
+Oklahoma,OK,Seminole County,0,0,0
+South Carolina,SC,Aiken County,0,0,0
+California,CA,Mendocino County,1,0,1
+Virginia,VA,Chesapeake City,0,0,0
+Wyoming,WY,Sweetwater County,1,0,0
+Texas,TX,Garza County,0,0,0
+West Virginia,WV,Hardy County,0,0,0
+Wisconsin,WI,Ozaukee County,0,0,0
+Tennessee,TN,Sullivan County,1,0,0
+South Carolina,SC,Laurens County,0,0,0
+Wyoming,WY,Crook County,0,0,0
+Wisconsin,WI,Sheboygan County,0,0,0
+Massachusetts,MA,Hampden County,1,0,1
+Texas,TX,Caldwell County,1,0,0
+Kansas,KS,Cloud County,0,0,0
+California,CA,Inyo County,1,0,0
+Alabama,AL,Coosa County,0,0,0
+Iowa,IA,Dickinson County,0,0,0
+Kentucky,KY,Harlan County,0,0,0
+Kansas,KS,Geary County,1,0,0
+Pennsylvania,PA,Berks County,1,0,1
+Tennessee,TN,Carter County,0,0,0
+Minnesota,MN,Lyon County,0,0,0
+Virginia,VA,Charlotte County,0,0,0
+Tennessee,TN,Washington County,0,0,0
+South Carolina,SC,Newberry County,0,0,0
+Virginia,VA,Isle Of Wight County,0,0,0
+Oregon,OR,Wheeler County,0,0,0
+Missouri,MO,Butler County,0,0,1
+Louisiana,LA,Iberville Parish,0,1,0
+Mississippi,MS,Sharkey County,0,0,0
+Virginia,VA,Fauquier County,0,0,0
+Virginia,VA,Radford City,0,0,0
+Nevada,NV,Douglas County,0,0,0
+Florida,FL,Franklin County,0,1,0
+Indiana,IN,Greene County,0,0,0
+Indiana,IN,Rush County,0,0,0
+Wisconsin,WI,Washington County,0,0,0
+Missouri,MO,Laclede County,0,0,0
+Pennsylvania,PA,Mercer County,0,0,0
+Arkansas,AR,Craighead County,1,0,0
+Missouri,MO,Saline County,0,0,0
+Illinois,IL,White County,0,0,0
+Illinois,IL,De Witt County,0,0,0
+Nevada,NV,White Pine County,1,0,0
+Minnesota,MN,Goodhue County,0,0,1
+North Carolina,NC,Swain County,0,0,1
+Florida,FL,Pasco County,0,0,0
+Florida,FL,Sumter County,0,0,0
+New York,NY,Nassau County,0,0,1
+North Dakota,ND,Steele County,0,0,0
+Indiana,IN,Vanderburgh County,1,0,0
+Missouri,MO,Franklin County,0,0,1
+North Carolina,NC,Avery County,0,0,0
+West Virginia,WV,Wood County,1,1,0
+Wisconsin,WI,Bayfield County,0,1,0
+Tennessee,TN,Stewart County,0,1,0
+Wisconsin,WI,Portage County,0,0,0
+South Carolina,SC,Lexington County,1,0,0
+Maryland,MD,Anne Arundel County,1,1,1
+Wisconsin,WI,Fond Du Lac County,0,0,0
+West Virginia,WV,Webster County,0,0,0
+Wisconsin,WI,Kewaunee County,0,0,0
+Texas,TX,Parmer County,0,0,0
+Oklahoma,OK,Woods County,0,0,0
+Kentucky,KY,Elliott County,0,0,0
+Massachusetts,MA,Berkshire County,0,0,1
+Missouri,MO,Chariton County,0,0,0
+Colorado,CO,Rio Blanco County,0,0,0
+Colorado,CO,Morgan County,0,0,1
+Oregon,OR,Malheur County,1,1,0
+New Jersey,NJ,Middlesex County,0,0,1
+Kansas,KS,Russell County,1,0,0
+Illinois,IL,Putnam County,0,0,0
+South Dakota,SD,Haakon County,0,0,0
+Tennessee,TN,Macon County,0,0,0
+Arkansas,AR,Cleburne County,0,0,0
+Alabama,AL,Pike County,1,0,0
+Idaho,ID,Adams County,0,0,0
+Massachusetts,MA,Bristol County,1,0,1
+Pennsylvania,PA,Schuylkill County,0,0,1
+North Dakota,ND,Wells County,0,0,0
+North Carolina,NC,Cleveland County,0,0,0
+Arkansas,AR,Hot Spring County,0,0,1
+Maryland,MD,Frederick County,0,0,1
+Illinois,IL,Schuyler County,0,0,0
+California,CA,Mono County,0,1,0
+California,CA,Tuolumne County,0,1,0
+New Mexico,NM,Doña Ana County,1,0,0
+Georgia,GA,Crisp County,0,0,1
+Arkansas,AR,Columbia County,0,0,0
+North Dakota,ND,Griggs County,0,0,0
+California,CA,Solano County,1,1,1
+Iowa,IA,Clayton County,0,1,0
+Texas,TX,Titus County,0,0,0
+West Virginia,WV,Hampshire County,0,0,0
+North Carolina,NC,Moore County,0,0,1
+Kansas,KS,Barton County,0,0,0
+North Dakota,ND,Slope County,0,0,0
+Louisiana,LA,Richland Parish,0,0,0
+Nebraska,NE,Garfield County,0,0,0
+Louisiana,LA,St. Martin Parish,0,0,0
+Alabama,AL,Sumter County,0,0,0
+Alabama,AL,Winston County,0,0,0
+Florida,FL,Seminole County,1,0,1
+Mississippi,MS,Forrest County,1,0,1
+Michigan,MI,Ingham County,0,0,1
+Kansas,KS,Shawnee County,1,0,1
+South Dakota,SD,Hanson County,0,0,0
+Minnesota,MN,Itasca County,0,0,0
+Colorado,CO,Lincoln County,0,0,0
+New York,NY,Madison County,0,0,0
+New York,NY,Washington County,0,0,1
+Indiana,IN,Johnson County,0,0,0
+Texas,TX,Terry County,0,0,0
+New Mexico,NM,Harding County,0,0,0
+Alabama,AL,Talladega County,0,0,0
+Wisconsin,WI,Langlade County,0,0,0
+Texas,TX,Foard County,0,0,0
+Iowa,IA,Buena Vista County,0,0,0
+Iowa,IA,Mills County,0,0,0
+Texas,TX,Real County,0,0,0
+Ohio,OH,Delaware County,0,0,0
+North Carolina,NC,Forsyth County,1,0,0
+Nevada,NV,Carson City,0,0,1
+Iowa,IA,Dallas County,0,0,0
+Texas,TX,Carson County,0,0,0
+Georgia,GA,Sumter County,0,0,1
+Missouri,MO,Wayne County,0,0,0
+South Carolina,SC,Anderson County,1,0,0
+Wyoming,WY,Carbon County,1,0,0
+Montana,MT,Silver Bow County,1,0,0
+Illinois,IL,Stephenson County,0,0,0
+Michigan,MI,Lapeer County,0,0,1
+Louisiana,LA,Claiborne Parish,0,0,0
+Mississippi,MS,Yalobusha County,0,0,0
+Michigan,MI,Kalkaska County,0,0,0
+Louisiana,LA,Evangeline Parish,0,0,0
+Tennessee,TN,Hardeman County,0,0,0
+Arizona,AZ,Cochise County,1,0,1
+New Mexico,NM,Hidalgo County,0,0,1
+North Dakota,ND,Divide County,0,0,0
+California,CA,San Bernardino County,1,0,1
+Colorado,CO,Montezuma County,1,0,0
+Mississippi,MS,Clarke County,0,0,0
+Iowa,IA,Marion County,0,0,0
+Nebraska,NE,Douglas County,1,0,1
+Virginia,VA,Fairfax City,0,0,0
+Oklahoma,OK,Harmon County,0,0,0
+Missouri,MO,Cedar County,0,0,0
+Georgia,GA,Clarke County,1,0,0
+Idaho,ID,Valley County,1,0,0
+Texas,TX,Knox County,0,0,0
+Arkansas,AR,Ouachita County,0,0,0
+Ohio,OH,Darke County,0,0,0
+Oklahoma,OK,Kay County,1,0,0
+South Dakota,SD,Dewey County,0,0,0
+Oregon,OR,Tillamook County,0,0,1
+Georgia,GA,Coweta County,0,0,0
+Mississippi,MS,Simpson County,0,0,0
+Mississippi,MS,Stone County,0,0,0
+California,CA,Contra Costa County,1,1,1
+Tennessee,TN,Carroll County,0,0,0
+Virginia,VA,Henrico County,1,0,1
+Indiana,IN,Owen County,0,0,0
+New York,NY,Westchester County,1,1,1
+Missouri,MO,Bollinger County,0,0,0
+West Virginia,WV,Mcdowell County,0,0,0
+West Virginia,WV,Harrison County,1,0,0
+North Carolina,NC,Granville County,0,0,0
+Nebraska,NE,Pierce County,0,0,0
+Georgia,GA,Bleckley County,0,0,0
+Georgia,GA,Burke County,0,0,0
+Illinois,IL,Union County,0,0,0
+Illinois,IL,Kankakee County,1,0,1
+North Dakota,ND,Mcintosh County,0,0,0
+Nebraska,NE,Platte County,1,0,0
+North Carolina,NC,Warren County,0,0,0
+Georgia,GA,Marion County,0,0,0
+South Dakota,SD,Clay County,0,0,0
+Delaware,DE,Sussex County,0,1,0
+Georgia,GA,Jasper County,0,0,0
+Missouri,MO,Randolph County,0,0,0
+Kansas,KS,Butler County,0,0,0
+Texas,TX,Hays County,0,0,1
+Texas,TX,Medina County,0,0,0
+Michigan,MI,Mason County,0,1,0
+South Carolina,SC,Beaufort County,1,1,0
+South Dakota,SD,Yankton County,1,0,0
+Wisconsin,WI,Rock County,0,0,0
+South Carolina,SC,Pickens County,0,0,1
+Washington,WA,Columbia County,0,0,0
+Indiana,IN,Clinton County,0,0,0
+Illinois,IL,Clinton County,0,0,0
+Idaho,ID,Minidoka County,0,0,0
+Pennsylvania,PA,Sullivan County,0,0,0
+Mississippi,MS,Rankin County,1,0,0
+Texas,TX,Motley County,0,0,0
+Oregon,OR,Lane County,1,0,0
+Texas,TX,Wichita County,1,0,0
+Michigan,MI,Shiawassee County,0,0,1
+Kansas,KS,Jewell County,0,0,0
+Kansas,KS,Mitchell County,0,0,0
+Florida,FL,Bradford County,0,0,0
+Mississippi,MS,Marion County,0,0,0
+Mississippi,MS,George County,0,0,0
+Illinois,IL,Jo Daviess County,0,0,0
+Indiana,IN,Hancock County,0,0,0
+Virginia,VA,Franklin City,0,0,0
+Texas,TX,Midland County,1,0,0
+Kansas,KS,Scott County,0,0,0
+Montana,MT,Cascade County,1,0,0
+Virginia,VA,Harrisonburg City,0,0,0
+Illinois,IL,Williamson County,1,0,0
+Montana,MT,Flathead County,1,0,1
+Kansas,KS,Stevens County,0,0,0
+Kentucky,KY,Fayette County,1,0,0
+Kentucky,KY,Hancock County,0,0,0
+South Dakota,SD,Brown County,1,0,0
+West Virginia,WV,Barbour County,0,0,0
+Tennessee,TN,Wayne County,0,0,0
+Nebraska,NE,Box Butte County,1,0,0
+Pennsylvania,PA,Northumberland County,0,0,0
+Texas,TX,Victoria County,1,0,0
+Virginia,VA,Buena Vista City,0,0,0
+Michigan,MI,St. Clair County,0,1,1
+Nebraska,NE,Thurston County,0,0,0
+Vermont,VT,Lamoille County,0,0,0
+Virginia,VA,Franklin County,0,0,0
+Oklahoma,OK,Blaine County,0,0,0
+Washington,WA,Kittitas County,0,0,0
+Indiana,IN,Randolph County,0,0,0
+Utah,UT,Kane County,0,1,0
+West Virginia,WV,Tucker County,0,0,1
+Wisconsin,WI,Crawford County,0,0,0
+Alabama,AL,Jackson County,0,0,0
+Iowa,IA,Mahaska County,0,0,0
+Kansas,KS,Douglas County,0,0,1
+Kentucky,KY,Daviess County,1,0,0
+Kentucky,KY,Powell County,0,0,0
+Missouri,MO,Jasper County,1,0,1
+Oregon,OR,Union County,0,0,1
+Georgia,GA,Henry County,0,0,0
+North Dakota,ND,Adams County,0,0,0
+North Carolina,NC,Pamlico County,0,1,0
+Kentucky,KY,Graves County,0,0,0
+Pennsylvania,PA,Cambria County,1,0,1
+Tennessee,TN,Mcminn County,0,0,0
+Michigan,MI,Livingston County,0,0,0
+Colorado,CO,Adams County,0,0,1
+Pennsylvania,PA,Lackawanna County,0,0,0
+Oklahoma,OK,Pontotoc County,1,0,0
+Oklahoma,OK,Creek County,0,0,0
+Texas,TX,Tyler County,0,0,0
+Tennessee,TN,Van Buren County,0,0,0
+Oklahoma,OK,Pottawatomie County,0,0,0
+New Mexico,NM,Socorro County,0,0,0
+Georgia,GA,Atkinson County,0,0,0
+Florida,FL,Duval County,1,1,1
+Texas,TX,Falls County,0,0,0
+Arkansas,AR,Yell County,0,0,0
+Kansas,KS,Comanche County,0,0,0
+Kentucky,KY,Jessamine County,0,1,0
+Kentucky,KY,Monroe County,0,1,0
+Oklahoma,OK,Kiowa County,1,0,0
+South Dakota,SD,Lake County,0,0,0
+North Carolina,NC,Caswell County,0,0,0
+Texas,TX,Presidio County,0,0,0
+Ohio,OH,Greene County,1,0,0
+Texas,TX,Willacy County,0,0,0
+New Mexico,NM,Los Alamos County,0,0,0
+Alaska,AK,Kenai Peninsula Borough,1,1,1
+Alabama,AL,Baldwin County,0,1,1
+Iowa,IA,Appanoose County,0,0,0
+Virginia,VA,New Kent County,0,0,0
+Georgia,GA,Talbot County,0,0,0
+New York,NY,Lewis County,0,0,0
+West Virginia,WV,Clay County,0,0,0
+Indiana,IN,Jefferson County,0,0,0
+Virginia,VA,Bedford County,0,0,0
+New Mexico,NM,Mora County,0,0,0
+Nebraska,NE,Boone County,0,0,0
+Missouri,MO,Oregon County,0,0,0
+Tennessee,TN,Houston County,0,1,0
+Pennsylvania,PA,Wyoming County,0,0,0
+North Carolina,NC,Lenoir County,1,0,0
+Indiana,IN,Vigo County,1,0,0
+Indiana,IN,Elkhart County,0,0,1
+Virginia,VA,Grayson County,0,0,0
+Texas,TX,Lubbock County,1,0,0
+Minnesota,MN,Meeker County,0,0,0
+Ohio,OH,Ashland County,0,0,0
+Nebraska,NE,Madison County,1,0,0
+Florida,FL,Martin County,0,0,0
+Colorado,CO,Mineral County,0,0,0
+Georgia,GA,Dawson County,0,0,0
+Georgia,GA,Johnson County,0,0,0
+Arkansas,AR,Monroe County,0,0,0
+Missouri,MO,Dallas County,0,0,0
+Virginia,VA,Pittsylvania County,0,0,0
+Alaska,AK,Denali Borough,1,0,1
+Kansas,KS,Pawnee County,0,0,0
+Kansas,KS,Wyandotte County,0,0,0
+Florida,FL,Dixie County,0,0,0
+Michigan,MI,Tuscola County,0,0,0
+Alaska,AK,Southeast Fairbanks Census Area,1,0,0
+Kansas,KS,Graham County,0,0,0
+Louisiana,LA,St. Landry Parish,0,0,0
+Tennessee,TN,Giles County,0,0,0
+Ohio,OH,Lucas County,1,0,1
+Arkansas,AR,Mississippi County,1,0,0
+Indiana,IN,Floyd County,0,0,0
+Kansas,KS,Morton County,0,0,0
+Kentucky,KY,Grant County,0,0,0
+Kentucky,KY,Taylor County,0,0,0
+North Carolina,NC,Graham County,0,0,0
+West Virginia,WV,Logan County,0,0,0
+West Virginia,WV,Pleasants County,0,0,0
+Virginia,VA,Giles County,0,0,0
+West Virginia,WV,Fayette County,0,0,1
+Washington,WA,Snohomish County,1,1,1
+New Mexico,NM,Eddy County,1,0,1
+Nebraska,NE,Mcpherson County,0,0,0
+Nebraska,NE,Red Willow County,1,0,1
+Nebraska,NE,Rock County,0,0,0
+Tennessee,TN,Humphreys County,0,0,0
+Illinois,IL,Mason County,0,0,0
+Virginia,VA,Wythe County,0,0,0
+Georgia,GA,Washington County,0,0,0
+Washington,WA,Yakima County,1,0,0
+Arkansas,AR,Washington County,1,0,0
+Texas,TX,Henderson County,0,0,0
+Wisconsin,WI,Eau Claire County,0,0,0
+Tennessee,TN,Sequatchie County,0,0,0
+Texas,TX,Walker County,1,0,0
+Arizona,AZ,Coconino County,1,0,1
+Kansas,KS,Sumner County,0,0,0
+Michigan,MI,Oceana County,0,0,0
+Minnesota,MN,Kanabec County,0,0,0
+Ohio,OH,Ashtabula County,1,0,0
+California,CA,Alpine County,0,0,0
+Texas,TX,Galveston County,1,1,0
+Alabama,AL,Bullock County,0,0,0
+Illinois,IL,Livingston County,0,0,1
+Ohio,OH,Preble County,0,0,0
+Ohio,OH,Jackson County,0,0,0
+Texas,TX,Harris County,1,1,1
+Massachusetts,MA,Middlesex County,1,1,1
+Texas,TX,Dawson County,0,0,0
+New York,NY,Ontario County,0,0,0
+Alabama,AL,Autauga County,0,0,0
+Kansas,KS,Miami County,0,0,0
+Georgia,GA,Dodge County,0,0,0
+New York,NY,Cortland County,0,0,0
+Georgia,GA,Camden County,0,1,0
+Michigan,MI,Washtenaw County,0,0,1
+Indiana,IN,Lagrange County,0,0,0
+Texas,TX,Pecos County,1,0,0
+Georgia,GA,Peach County,0,0,0
+Georgia,GA,White County,0,0,0
+Georgia,GA,Jefferson County,0,0,0
+Wisconsin,WI,Oconto County,0,0,0
+Texas,TX,Nacogdoches County,0,0,0
+Rhode Island,RI,Washington County,1,1,1
+Washington,WA,Okanogan County,0,0,0
+Washington,WA,Spokane County,1,0,1
+Wisconsin,WI,Forest County,0,0,1
+Wisconsin,WI,Sawyer County,1,0,0
+New Jersey,NJ,Hudson County,0,1,1
+Ohio,OH,Stark County,0,0,1
+Texas,TX,Guadalupe County,1,0,0
+Washington,WA,Island County,1,1,0
+West Virginia,WV,Jefferson County,0,0,1
+Virginia,VA,Prince William County,0,0,1
+Pennsylvania,PA,Chester County,0,0,1
+West Virginia,WV,Mercer County,1,0,0
+Tennessee,TN,Roane County,0,0,0
+Washington,WA,Clallam County,1,1,0
+Washington,WA,Stevens County,0,1,0
+Iowa,IA,Van Buren County,0,0,0
+Nebraska,NE,Gosper County,0,0,0
+Mississippi,MS,Monroe County,0,0,0
+Florida,FL,Escambia County,1,0,1
+Texas,TX,Tarrant County,1,0,1
+Maryland,MD,Prince George'S County,1,1,1
+Virginia,VA,Scott County,0,0,0
+Texas,TX,Jackson County,0,0,0
+Oklahoma,OK,Love County,0,0,0
+Georgia,GA,Twiggs County,0,0,0
+Ohio,OH,Mahoning County,0,0,0
+Alabama,AL,Macon County,0,0,0
+Illinois,IL,Wayne County,0,0,0
+Texas,TX,Swisher County,0,0,0
+Missouri,MO,Osage County,0,0,0
+Illinois,IL,Kane County,0,0,1
+California,CA,El Dorado County,1,1,1
+South Carolina,SC,Kershaw County,0,0,1
+North Carolina,NC,Gates County,0,0,0
+Colorado,CO,Otero County,0,0,1
+Oregon,OR,Douglas County,0,0,1
+Pennsylvania,PA,Monroe County,0,0,0
+Arkansas,AR,Newton County,0,0,0
+North Dakota,ND,Cavalier County,0,0,0
+Oklahoma,OK,Noble County,0,0,0
+Kansas,KS,Gove County,0,0,0
+Louisiana,LA,Pointe Coupee Parish,0,1,0
+Nebraska,NE,Gage County,0,0,0
+Alabama,AL,St. Clair County,0,0,0
+Mississippi,MS,Scott County,0,0,0
+Georgia,GA,Dougherty County,1,0,0
+Indiana,IN,Harrison County,0,0,0
+Idaho,ID,Bonner County,0,0,1
+Georgia,GA,Catoosa County,0,0,0
+Louisiana,LA,Lasalle Parish,0,0,0
+Maine,ME,Waldo County,0,1,0
+Maryland,MD,Howard County,0,0,1
+Utah,UT,Salt Lake County,1,0,1
+Florida,FL,Monroe County,1,1,0
+Ohio,OH,Tuscarawas County,0,0,0
+New York,NY,Richmond County,0,1,0
+Ohio,OH,Highland County,0,0,0
+Minnesota,MN,Lake Of The Woods County,1,0,0
+Idaho,ID,Bingham County,0,0,0
+South Carolina,SC,Greenville County,1,0,1
+South Dakota,SD,Lyman County,0,0,0
+Wisconsin,WI,Trempealeau County,0,0,0
+California,CA,Yolo County,0,0,1
+Texas,TX,Sterling County,0,0,0
+Texas,TX,Winkler County,1,0,0
+South Dakota,SD,Jackson County,0,0,0
+Utah,UT,Sevier County,0,0,0
+Virginia,VA,Charles City County,0,0,0
+Alabama,AL,Choctaw County,0,0,0
+Indiana,IN,Knox County,0,0,0
+Nebraska,NE,Dawson County,0,0,0
+Kansas,KS,Ford County,1,0,1
+North Dakota,ND,Williams County,1,0,1
+North Dakota,ND,Cass County,1,0,1
+Illinois,IL,Hardin County,0,1,0
+Nebraska,NE,Arthur County,0,0,0
+Texas,TX,Frio County,0,0,0
+Iowa,IA,Johnson County,0,0,0
+Kansas,KS,Neosho County,1,0,0
+Kentucky,KY,Greenup County,0,0,1
+Kansas,KS,Linn County,0,0,0
+Utah,UT,Garfield County,1,0,0
+Nevada,NV,Eureka County,0,0,0
+Nebraska,NE,Hayes County,0,0,0
+Colorado,CO,Phillips County,0,0,0
+Arkansas,AR,Calhoun County,0,0,0
+Alaska,AK,Fairbanks North Star Borough,1,0,1
+Kentucky,KY,Henderson County,0,1,0
+Mississippi,MS,Holmes County,0,0,0
+Mississippi,MS,Oktibbeha County,0,0,0
+Montana,MT,Fergus County,1,1,0
+Maryland,MD,Garrett County,0,0,0
+Louisiana,LA,Webster Parish,0,0,0
+Michigan,MI,Hillsdale County,0,0,0
+Kentucky,KY,Logan County,0,0,0
+South Dakota,SD,Custer County,0,0,0
+New Hampshire,NH,Merrimack County,1,0,0
+Pennsylvania,PA,York County,0,0,1
+North Carolina,NC,Rutherford County,0,0,0
+South Dakota,SD,Beadle County,1,0,0
+Alabama,AL,Cullman County,0,0,0
+Georgia,GA,Douglas County,0,0,0
+Nebraska,NE,Johnson County,0,0,0
+North Carolina,NC,Washington County,0,0,0
+South Dakota,SD,Jones County,0,0,0
+North Carolina,NC,Anson County,0,0,0
+Alaska,AK,Haines Borough,1,1,0
+North Dakota,ND,Billings County,0,0,0
+Nebraska,NE,Antelope County,0,0,0
+Missouri,MO,Gasconade County,0,0,1
+Kentucky,KY,Butler County,0,1,0
+Wyoming,WY,Campbell County,1,0,0
+Georgia,GA,Morgan County,0,0,0
+Arkansas,AR,Cross County,0,0,0
+Arkansas,AR,Phillips County,0,0,0
+Louisiana,LA,St. James Parish,0,0,0
+California,CA,Yuba County,1,0,0
+Alabama,AL,Shelby County,1,0,0
+Colorado,CO,Ouray County,0,0,0
+New Mexico,NM,Curry County,1,0,0
+Oklahoma,OK,Washita County,0,0,0
+North Carolina,NC,Orange County,0,0,0
+Indiana,IN,Pulaski County,0,0,0
+Michigan,MI,Benzie County,0,0,0
+New York,NY,Erie County,1,1,1
+Maryland,MD,Montgomery County,0,0,1
+Virginia,VA,Manassas Park City,0,0,1
+Virginia,VA,Arlington County,1,0,1
+Virginia,VA,Carroll County,0,0,0
+Missouri,MO,St. Charles County,0,1,0
+California,CA,San Benito County,0,0,0
+Maryland,MD,Queen Anne'S County,0,0,0
+Kansas,KS,Brown County,0,0,0
+Georgia,GA,Bulloch County,0,0,0
+Kentucky,KY,Floyd County,0,0,0
+Montana,MT,Broadwater County,0,0,0
+Georgia,GA,Wheeler County,0,0,0
+North Carolina,NC,Craven County,1,1,0
+Missouri,MO,Holt County,0,0,0
+Texas,TX,Lipscomb County,0,0,0
+Oregon,OR,Columbia County,0,0,0
+South Carolina,SC,Florence County,1,0,1
+North Dakota,ND,Mountrail County,0,0,1
+Utah,UT,Washington County,1,0,1
+Montana,MT,Big Horn County,0,0,0
+Pennsylvania,PA,Elk County,0,0,0
+Nebraska,NE,Sioux County,0,0,0
+Mississippi,MS,Covington County,0,0,0
+Indiana,IN,Brown County,0,0,0
+Indiana,IN,Clark County,0,0,0
+Kentucky,KY,Boyle County,0,0,0
+Kentucky,KY,Estill County,0,0,0
+Texas,TX,Collingsworth County,0,0,0
+Texas,TX,Colorado County,0,0,0
+Illinois,IL,Grundy County,0,0,0
+Minnesota,MN,Lincoln County,0,0,0
+Georgia,GA,Evans County,0,0,0
+Texas,TX,Wise County,0,0,0
+Alaska,AK,Bethel Census Area,1,0,0
+Georgia,GA,Webster County,0,0,0
+Georgia,GA,Jones County,0,0,0
+Georgia,GA,Gwinnett County,0,0,0
+Wisconsin,WI,Polk County,0,0,1
+Wisconsin,WI,Green County,0,0,0
+New York,NY,Putnam County,0,0,1
+Virginia,VA,Newport News City,1,0,1
+Colorado,CO,Bent County,0,0,0
+Oklahoma,OK,Jackson County,1,0,0
+Montana,MT,Sanders County,0,0,0
+Texas,TX,Glasscock County,0,0,0
+Arkansas,AR,Franklin County,0,0,0
+Oklahoma,OK,Major County,0,0,0
+Tennessee,TN,Montgomery County,0,0,0
+Washington,WA,Pend Oreille County,0,0,1
+North Dakota,ND,Mclean County,0,1,0
+Oregon,OR,Hood River County,0,1,1
+Iowa,IA,Wright County,0,0,0
+Texas,TX,Shelby County,0,0,0
+Missouri,MO,Crawford County,0,0,0
+Virginia,VA,Bath County,0,0,0
+Minnesota,MN,Otter Tail County,0,0,0
+Louisiana,LA,Plaquemines Parish,1,1,0
+Mississippi,MS,Pontotoc County,0,0,0
+Louisiana,LA,Morehouse Parish,0,0,0
+Kentucky,KY,Bullitt County,0,0,0
+Alabama,AL,Dallas County,0,0,0
+Texas,TX,Comanche County,0,0,0
+Montana,MT,Lincoln County,0,0,1
+Minnesota,MN,Cass County,0,0,0
+Colorado,CO,Archuleta County,0,0,0
+Mississippi,MS,Yazoo County,0,0,0
+Wisconsin,WI,Outagamie County,1,0,0
+Missouri,MO,Lafayette County,0,0,0
+North Carolina,NC,Wilson County,0,0,1
+Ohio,OH,Morrow County,0,0,0
+Montana,MT,Granite County,0,0,0
+North Dakota,ND,Foster County,0,0,0
+Arkansas,AR,Crawford County,0,0,0
+Texas,TX,Burnet County,0,0,1
+Missouri,MO,Ste. Genevieve County,0,0,0
+Texas,TX,Gray County,0,0,0
+Illinois,IL,Mcdonough County,0,0,1
+Iowa,IA,Montgomery County,0,0,0
+Arkansas,AR,Jackson County,0,0,0
+Texas,TX,Hudspeth County,0,0,0
+Louisiana,LA,Rapides Parish,1,0,0
+Nebraska,NE,Lincoln County,1,0,0
+Texas,TX,Cass County,0,0,0
+Tennessee,TN,Henry County,0,0,0
+Virginia,VA,Winchester City,0,0,0
+North Carolina,NC,Duplin County,0,0,0
+North Carolina,NC,Haywood County,0,0,0
+Minnesota,MN,Dakota County,0,0,0
+Oregon,OR,Harney County,1,0,0
+Wisconsin,WI,Adams County,0,0,0
+Missouri,MO,Clark County,0,0,0
+Kentucky,KY,Boone County,1,1,1
+Kentucky,KY,Washington County,0,0,0
+Louisiana,LA,Avoyelles Parish,0,0,0
+Mississippi,MS,Tate County,0,0,0
+Missouri,MO,Worth County,0,0,0
+Nebraska,NE,Sherman County,0,0,0
+South Dakota,SD,Campbell County,0,0,0
+South Dakota,SD,Harding County,0,0,0
+Michigan,MI,Gratiot County,0,0,0
+Iowa,IA,Union County,0,0,1
+Illinois,IL,Massac County,0,0,0
+Nebraska,NE,Logan County,0,0,0
+Nebraska,NE,Merrick County,0,0,0
+Nebraska,NE,Sheridan County,0,0,0
+Kentucky,KY,Carlisle County,0,0,0
+Wyoming,WY,Natrona County,1,0,0
+Georgia,GA,Worth County,0,0,0
+Indiana,IN,Morgan County,0,0,0
+Texas,TX,Ellis County,1,0,0
+Georgia,GA,Pierce County,0,0,0
+Indiana,IN,Grant County,0,0,0
+Florida,FL,Flagler County,0,0,0
+Mississippi,MS,Lawrence County,0,0,0
+Louisiana,LA,Winn Parish,0,0,0
+Illinois,IL,Henry County,0,0,1
+Oregon,OR,Lincoln County,1,0,0
+Maine,ME,York County,0,0,1
+South Dakota,SD,Codington County,1,0,0
+Georgia,GA,Pike County,0,0,0
+Georgia,GA,Stewart County,0,0,0
+New Jersey,NJ,Monmouth County,0,1,1
+Arkansas,AR,Clay County,0,0,0
+Arkansas,AR,Faulkner County,0,0,0
+Oklahoma,OK,Delaware County,0,0,0
+Iowa,IA,Keokuk County,0,0,0
+Illinois,IL,Greene County,0,1,0
+Minnesota,MN,Lake County,0,0,0
+Georgia,GA,Troup County,0,0,0
+California,CA,Humboldt County,1,0,0
+Tennessee,TN,Dickson County,0,0,0
+Minnesota,MN,Anoka County,0,0,1
+South Dakota,SD,Bon Homme County,0,0,0
+Tennessee,TN,Greene County,0,0,0
+Virginia,VA,Sussex County,0,0,0
+Indiana,IN,St. Joseph County,1,0,1
+North Dakota,ND,Pembina County,0,0,0
+South Dakota,SD,Bennett County,0,0,0
+Louisiana,LA,Vernon Parish,1,0,0
+Maine,ME,Penobscot County,1,0,0
+Maryland,MD,Talbot County,0,1,0
+Georgia,GA,Stephens County,0,0,0
+California,CA,Riverside County,1,0,1
+Arkansas,AR,Baxter County,1,0,0
+Mississippi,MS,Attala County,0,0,0
+Iowa,IA,Story County,0,0,0
+Kansas,KS,Bourbon County,0,0,0
+Virginia,VA,Cumberland County,0,0,0
+South Carolina,SC,Sumter County,1,0,0
+Alaska,AK,Lake And Peninsula Borough,1,1,0
+West Virginia,WV,Wyoming County,0,0,0
+California,CA,Kern County,1,0,1
+Texas,TX,Cooke County,0,0,1
+South Carolina,SC,Orangeburg County,1,0,0
+Wisconsin,WI,Taylor County,0,0,0
+Minnesota,MN,Mower County,0,0,1
+Minnesota,MN,Murray County,0,0,0
+Rhode Island,RI,Providence County,0,1,1
+Missouri,MO,Phelps County,0,0,0
+Mississippi,MS,Prentiss County,0,0,0
+Kentucky,KY,Whitley County,0,0,0
+Indiana,IN,Starke County,0,0,0
+Texas,TX,Williamson County,0,0,1
+Iowa,IA,Mitchell County,0,0,0
+Georgia,GA,Emanuel County,0,0,0
+Louisiana,LA,Catahoula Parish,0,1,0
+Pennsylvania,PA,Carbon County,0,0,0
+Nebraska,NE,Pawnee County,0,0,0
+Tennessee,TN,Unicoi County,0,0,0
+South Carolina,SC,Spartanburg County,1,0,1
+Wisconsin,WI,Marathon County,1,0,0
+Nevada,NV,Elko County,1,0,1
+West Virginia,WV,Braxton County,0,0,0
+Michigan,MI,Wexford County,0,0,0
+Texas,TX,Cochran County,0,0,0
+Pennsylvania,PA,Blair County,1,0,1
+Missouri,MO,Hickory County,0,0,0
+Missouri,MO,Barry County,0,0,0
+Minnesota,MN,Ramsey County,1,0,1
+Arkansas,AR,Little River County,0,0,0
+Nevada,NV,Lyon County,0,0,0
+Florida,FL,Lee County,1,1,0
+Oregon,OR,Josephine County,0,0,0
+Mississippi,MS,Pike County,1,0,0
+Tennessee,TN,Coffee County,0,0,0
+Idaho,ID,Lemhi County,1,0,0
+Kentucky,KY,Ohio County,0,1,0
+Nebraska,NE,Sarpy County,1,0,0
+Georgia,GA,Colquitt County,0,0,1
+Minnesota,MN,Wilkin County,0,0,0
+Illinois,IL,Randolph County,0,0,0
+Maine,ME,Kennebec County,1,0,0
+Virginia,VA,Smyth County,0,0,0
+New Mexico,NM,Roosevelt County,0,0,0
+Pennsylvania,PA,Somerset County,0,0,0
+Virginia,VA,Washington County,0,0,1
+North Carolina,NC,Guilford County,1,0,1
+Idaho,ID,Ada County,1,0,0
+Oklahoma,OK,Custer County,0,0,0
+Ohio,OH,Marion County,0,0,0
+Illinois,IL,Pike County,0,0,0
+Illinois,IL,Woodford County,0,0,0
+Georgia,GA,Richmond County,1,0,0
+Alabama,AL,Pickens County,0,0,0
+Oklahoma,OK,Ellis County,0,0,0
+Illinois,IL,Perry County,0,0,1
+Iowa,IA,Grundy County,0,0,0
+Colorado,CO,Routt County,1,0,0
+New Jersey,NJ,Somerset County,0,0,1
+California,CA,Colusa County,0,0,0
+Illinois,IL,Johnson County,0,0,0
+Colorado,CO,Hinsdale County,0,0,0
+Idaho,ID,Cassia County,1,0,0
+Minnesota,MN,Isanti County,0,0,0
+Pennsylvania,PA,Erie County,1,0,1
+Mississippi,MS,Copiah County,0,0,0
+Texas,TX,Van Zandt County,1,0,0
+Virginia,VA,Roanoke County,0,0,0
+Virginia,VA,Augusta County,1,0,0
+Alaska,AK,Bristol Bay Borough,1,0,0
+Utah,UT,Piute County,0,0,0
+Kentucky,KY,Mason County,0,0,1
+Minnesota,MN,Benton County,0,0,1
+Texas,TX,Donley County,0,0,0
+Florida,FL,Bay County,1,0,0
+Alabama,AL,Lauderdale County,0,0,0
+Indiana,IN,Fountain County,0,0,0
+Illinois,IL,Shelby County,0,0,0
+Illinois,IL,Fayette County,0,0,0
+Ohio,OH,Perry County,0,0,0
+Virginia,VA,Danville City,1,0,1
+Georgia,GA,Banks County,0,0,0
+Georgia,GA,Wayne County,0,0,1
+Oklahoma,OK,Oklahoma County,1,1,1
+Oklahoma,OK,Johnston County,0,0,0
+North Carolina,NC,Jackson County,0,0,0
+Utah,UT,Summit County,0,0,1
+Missouri,MO,Polk County,0,0,0
+Nevada,NV,Lander County,0,0,0
+Iowa,IA,Winneshiek County,0,0,1
+Kentucky,KY,Bracken County,0,1,0
+Wisconsin,WI,Florence County,0,0,0
+West Virginia,WV,Roane County,0,0,0
+Minnesota,MN,Wadena County,0,0,0
+Virginia,VA,Hopewell City,0,0,0
+Illinois,IL,Winnebago County,1,0,0
+Arizona,AZ,Gila County,0,0,0
+Maryland,MD,Wicomico County,1,1,0
+Kentucky,KY,Carter County,0,0,0
+North Carolina,NC,Iredell County,0,0,0
+Virginia,VA,Halifax County,0,0,0
+North Carolina,NC,Hertford County,0,1,0
+New York,NY,Montgomery County,0,0,1
+Minnesota,MN,Pennington County,1,0,0
+Washington,WA,Whatcom County,1,1,1
+Oregon,OR,Gilliam County,0,0,0
+New Jersey,NJ,Ocean County,1,1,1
+Arkansas,AR,Boone County,1,0,0
+Oklahoma,OK,Comanche County,1,0,0
+Texas,TX,Jones County,0,0,0
+Texas,TX,Grimes County,0,0,0
+Michigan,MI,Genesee County,1,0,1
+Louisiana,LA,Assumption Parish,0,0,0
+Mississippi,MS,Calhoun County,0,0,0
+Mississippi,MS,Greene County,0,0,0
+Montana,MT,Custer County,1,0,0
+South Dakota,SD,Roberts County,0,0,0
+Illinois,IL,Ogle County,0,0,0
+North Dakota,ND,Richland County,0,0,0
+Wisconsin,WI,Barron County,0,0,0
+Wisconsin,WI,Iron County,0,0,0
+Minnesota,MN,Wabasha County,0,0,0
+California,CA,Del Norte County,1,0,0
+Oklahoma,OK,Pushmataha County,0,0,0
+Washington,WA,Chelan County,0,1,1
+Michigan,MI,Presque Isle County,0,0,0
+Oklahoma,OK,Cleveland County,0,0,1
+New York,NY,Sullivan County,0,0,0
+North Carolina,NC,Polk County,0,0,0
+North Carolina,NC,Scotland County,0,0,0
+North Carolina,NC,Harnett County,0,0,0
+North Carolina,NC,Lee County,0,0,0
+Indiana,IN,Tipton County,0,0,0
+Kansas,KS,Clay County,0,0,0
+Oklahoma,OK,Wagoner County,0,0,0
+Montana,MT,Richland County,1,0,0
+Arkansas,AR,Ashley County,0,0,0
+Arkansas,AR,Desha County,0,0,0
+Tennessee,TN,Perry County,0,0,0
+Minnesota,MN,Washington County,0,0,0
+Virginia,VA,Portsmouth City,0,1,0
+Pennsylvania,PA,Fayette County,0,0,1
+West Virginia,WV,Grant County,0,0,0
+Virginia,VA,Shenandoah County,0,0,0
+Texas,TX,Irion County,0,0,0
+Missouri,MO,Caldwell County,0,0,0
+Florida,FL,Putnam County,0,1,1
+Indiana,IN,Crawford County,0,0,0
+Missouri,MO,Lewis County,0,0,0
+Nebraska,NE,Grant County,0,0,0
+Idaho,ID,Oneida County,0,0,0
+Illinois,IL,Moultrie County,0,0,0
+Kentucky,KY,Hopkins County,0,0,0
+Idaho,ID,Clearwater County,0,0,0
+Kentucky,KY,Bell County,0,0,0
+Minnesota,MN,Crow Wing County,1,0,0
+Arizona,AZ,Graham County,0,0,1
+Arkansas,AR,St. Francis County,0,0,0
+Georgia,GA,Echols County,0,0,0
+Alaska,AK,Dillingham Census Area,1,0,0
+Kansas,KS,Lincoln County,0,0,0
+Kansas,KS,Smith County,0,0,0
+Florida,FL,Jefferson County,0,0,0
+Mississippi,MS,Amite County,0,0,0
+Arkansas,AR,Montgomery County,0,0,0
+Michigan,MI,Calhoun County,1,0,1
+Alabama,AL,Cleburne County,0,0,0
+Colorado,CO,Weld County,0,0,0
+Oklahoma,OK,Beckham County,0,0,0
+California,CA,Modoc County,0,0,0
+Iowa,IA,Polk County,1,0,0
+Georgia,GA,Liberty County,0,0,0
+Texas,TX,Navarro County,0,0,0
+Texas,TX,Brooks County,0,0,0
+Tennessee,TN,Williamson County,0,0,0
+Wyoming,WY,Laramie County,1,0,0
+Washington,WA,Asotin County,0,0,0
+Minnesota,MN,Traverse County,0,0,0
+Illinois,IL,Cass County,0,0,0
+Georgia,GA,Rockdale County,0,0,0
+Pennsylvania,PA,Juniata County,0,0,0
+Pennsylvania,PA,Mckean County,1,0,0
+Oklahoma,OK,Garvin County,0,0,1
+Nebraska,NE,Burt County,0,0,0
+New Mexico,NM,San Juan County,1,0,0
+New York,NY,Orleans County,0,0,0
+Louisiana,LA,De Soto Parish,0,0,0
+California,CA,Fresno County,1,1,1
+Georgia,GA,Elbert County,0,0,0
+Alabama,AL,Barbour County,0,0,0
+North Carolina,NC,Bladen County,0,1,0
+Texas,TX,Dallam County,0,0,0
+Illinois,IL,Sangamon County,1,0,1
+Oklahoma,OK,Craig County,0,0,0
+Tennessee,TN,Cumberland County,1,0,0
+Michigan,MI,Otsego County,0,0,0
+Iowa,IA,Sac County,0,0,0
+Utah,UT,Emery County,0,0,1
+Washington,WA,Ferry County,0,1,0
+Montana,MT,Wibaux County,0,0,0
+New Mexico,NM,Lincoln County,1,0,0
+Oklahoma,OK,Cherokee County,0,0,0
+Minnesota,MN,Yellow Medicine County,0,0,0
+Texas,TX,Hunt County,0,0,0
+Texas,TX,Mitchell County,0,0,0
+Texas,TX,Wood County,0,0,1
+Oklahoma,OK,Osage County,0,0,0
+North Carolina,NC,Cherokee County,1,0,0
+Michigan,MI,Mecosta County,0,0,0
+Kentucky,KY,Pike County,0,0,0
+Florida,FL,Lafayette County,0,0,0
+North Carolina,NC,Catawba County,0,0,0
+Kentucky,KY,Breathitt County,1,0,0
+Texas,TX,Childress County,1,0,0
+Missouri,MO,Ripley County,0,0,0
+Illinois,IL,Tazewell County,0,0,0
+Texas,TX,Jeff Davis County,0,0,0
+Virginia,VA,Lexington City,0,0,0
+Arkansas,AR,Sharp County,0,0,0
+Colorado,CO,Larimer County,1,0,1
+North Carolina,NC,Tyrrell County,0,0,0
+Minnesota,MN,Rice County,0,0,0
+Missouri,MO,Warren County,0,0,0
+Kentucky,KY,Warren County,1,0,0
+Louisiana,LA,Caddo Parish,1,0,0
+South Dakota,SD,Todd County,0,0,0
+Iowa,IA,Marshall County,0,0,0
+Oklahoma,OK,Tillman County,0,0,0
+North Carolina,NC,Macon County,0,0,0
+West Virginia,WV,Monroe County,0,0,1
+Indiana,IN,Switzerland County,0,0,0
+Kentucky,KY,Hickman County,0,0,0
+Alabama,AL,Geneva County,0,0,0
+Illinois,IL,Lasalle County,0,0,1
+Iowa,IA,Delaware County,0,0,0
+Kansas,KS,Morris County,0,0,0
+Iowa,IA,Davis County,0,0,0
+Idaho,ID,Boise County,0,0,0
+Wisconsin,WI,Monroe County,0,0,1
+North Carolina,NC,Perquimans County,0,0,0
+Florida,FL,Hamilton County,0,0,0
+Alaska,AK,Matanuska-Susitna Borough,1,0,1
+Indiana,IN,Delaware County,1,0,0
+Florida,FL,Levy County,0,0,0
+Mississippi,MS,Hancock County,0,0,1
+Georgia,GA,Wilcox County,0,0,0
+Louisiana,LA,Red River Parish,0,0,0
+Tennessee,TN,Knox County,0,0,0
+Maine,ME,Oxford County,0,0,0
+Missouri,MO,Jackson County,0,0,1
+Georgia,GA,Towns County,0,0,0
+Mississippi,MS,Smith County,0,0,0
+Idaho,ID,Payette County,0,0,0
+Idaho,ID,Shoshone County,0,0,0
+North Carolina,NC,Hyde County,0,1,0
+Iowa,IA,Floyd County,1,0,0
+Kentucky,KY,Mccracken County,1,0,0
+Kentucky,KY,Union County,0,1,0
+South Dakota,SD,Turner County,0,0,0
+Tennessee,TN,Cocke County,0,0,0
+Tennessee,TN,Hancock County,0,0,0
+Tennessee,TN,Hardin County,0,0,0
+South Carolina,SC,Marion County,0,0,0
+Louisiana,LA,Washington Parish,0,0,0
+Missouri,MO,Stoddard County,0,0,0
+Georgia,GA,Dooly County,0,0,0
+Minnesota,MN,Stearns County,0,0,0
+Nebraska,NE,Saunders County,0,0,0
+Minnesota,MN,Sherburne County,1,0,1
+South Dakota,SD,Davison County,0,0,0
+Tennessee,TN,Claiborne County,0,0,0
+Texas,TX,Montague County,0,0,1
+Texas,TX,Brown County,0,0,0
+Wisconsin,WI,Racine County,0,0,1
+Wisconsin,WI,Shawano County,0,0,0
+Iowa,IA,Audubon County,0,0,0
+Texas,TX,Haskell County,0,0,0
+Oklahoma,OK,Logan County,0,0,0
+New York,NY,Oneida County,1,0,1
+Colorado,CO,Lake County,0,0,1
+Oklahoma,OK,Pittsburg County,1,0,0
+West Virginia,WV,Doddridge County,0,0,0
+West Virginia,WV,Wirt County,0,0,0
+New Hampshire,NH,Carroll County,0,0,1
+West Virginia,WV,Tyler County,0,1,0
+Minnesota,MN,Le Sueur County,0,0,0
+Washington,WA,Douglas County,1,0,0
+New York,NY,Cattaraugus County,0,0,0
+Wisconsin,WI,Dodge County,0,0,0
+Iowa,IA,Jones County,0,0,0
+Kansas,KS,Barber County,0,0,0
+Missouri,MO,Pulaski County,1,0,0
+Alabama,AL,Dale County,1,0,0
+Kansas,KS,Logan County,0,0,0
+California,CA,Madera County,0,0,1
+Missouri,MO,Gentry County,0,0,0
+Nebraska,NE,Blaine County,0,0,0
+Utah,UT,Daggett County,0,0,0
+Wyoming,WY,Platte County,0,0,0
+North Carolina,NC,Gaston County,0,0,0
+New Mexico,NM,Guadalupe County,0,0,0
+Montana,MT,Golden Valley County,0,0,0
+North Carolina,NC,Johnston County,1,0,1
+California,CA,Santa Clara County,1,0,1
+South Carolina,SC,Charleston County,1,1,1
+Washington,WA,Benton County,0,0,0
+Missouri,MO,Adair County,1,0,0
+Ohio,OH,Erie County,0,1,1
+Illinois,IL,Vermilion County,0,0,0
+Missouri,MO,St. Louis County,1,0,1
+Illinois,IL,Boone County,0,0,0
+California,CA,Tehama County,1,0,0
+Wisconsin,WI,Dane County,1,0,0
+Texas,TX,Fisher County,0,0,0
+Louisiana,LA,Sabine Parish,0,0,0
+Illinois,IL,Morgan County,0,0,0
+Georgia,GA,Pulaski County,0,0,0
+North Carolina,NC,Bertie County,0,1,0
+North Carolina,NC,Stanly County,0,0,0
+Tennessee,TN,Rhea County,0,0,0
+North Carolina,NC,Greene County,0,0,0
+Kentucky,KY,Leslie County,0,0,0
+Maryland,MD,Somerset County,0,1,0
+Illinois,IL,Marshall County,0,0,0
+Kentucky,KY,Lyon County,0,0,0
+Texas,TX,Concho County,0,0,0
+Texas,TX,Coke County,0,0,0
+Tennessee,TN,Overton County,0,0,0
+Michigan,MI,Huron County,0,0,0
+Michigan,MI,Iosco County,0,0,0
+Georgia,GA,Coffee County,0,0,0
+Georgia,GA,Ware County,0,0,0
+North Dakota,ND,Grant County,0,0,0
+Louisiana,LA,Jefferson Parish,1,0,0
+Louisiana,LA,St. Tammany Parish,0,0,0
+Iowa,IA,Hardin County,0,0,0
+Louisiana,LA,Cameron Parish,0,1,0
+Ohio,OH,Clinton County,1,0,0
+Minnesota,MN,St. Louis County,1,0,1
+Ohio,OH,Lorain County,0,0,1
+Iowa,IA,Boone County,0,0,1
+Texas,TX,Polk County,0,0,0
+Nebraska,NE,Dixon County,0,0,0
+Maryland,MD,Harford County,1,0,1
+South Carolina,SC,Edgefield County,0,0,0
+Virginia,VA,Accomack County,0,1,0
+Wisconsin,WI,Calumet County,0,0,0
+Kentucky,KY,Knox County,0,0,0
+Michigan,MI,Ionia County,0,0,0
+North Carolina,NC,New Hanover County,1,1,0
+Tennessee,TN,Obion County,0,0,0
+Kentucky,KY,Calloway County,0,0,0
+Virginia,VA,Albemarle County,1,1,0
+Tennessee,TN,Robertson County,0,0,0
+Virginia,VA,Clarke County,0,0,0
+Washington,WA,Garfield County,0,0,0
+Kentucky,KY,Jackson County,0,0,0
+Minnesota,MN,Cook County,0,1,0
+South Carolina,SC,Oconee County,0,0,0
+Louisiana,LA,East Baton Rouge Parish,1,0,0
+Mississippi,MS,Claiborne County,0,0,0
+Maryland,MD,St. Mary'S County,1,1,0
+Michigan,MI,Kent County,1,0,1
+North Carolina,NC,Pitt County,1,0,0
+Montana,MT,Carbon County,0,0,0
+Nebraska,NE,Stanton County,0,0,0
+Georgia,GA,Appling County,0,0,0
+Iowa,IA,Jasper County,0,0,0
+Mississippi,MS,Wayne County,0,0,0
+Texas,TX,Cottle County,0,0,0
+Virginia,VA,Greensville County,0,0,0
+Florida,FL,Polk County,1,0,1
+Texas,TX,Young County,0,0,0
+Alabama,AL,Tallapoosa County,0,0,0
+New Hampshire,NH,Rockingham County,1,1,1
+Colorado,CO,Rio Grande County,0,0,0
+Iowa,IA,Plymouth County,0,0,0
+New York,NY,Yates County,0,0,0
+Washington,WA,King County,1,1,1
+Oregon,OR,Deschutes County,1,0,0
+Iowa,IA,Pottawattamie County,0,0,0
+Missouri,MO,Wright County,0,0,0
+Montana,MT,Toole County,0,0,1
+New York,NY,Tioga County,0,0,0
+Texas,TX,Lee County,0,0,0
+Georgia,GA,Fulton County,1,0,1
+Texas,TX,Cherokee County,0,0,1
+Missouri,MO,Audrain County,0,0,0
+South Carolina,SC,Colleton County,0,0,0
+Wisconsin,WI,Jefferson County,0,0,0
+Arkansas,AR,Greene County,0,0,0
+Texas,TX,Hall County,0,0,0
+Wisconsin,WI,Burnett County,0,0,0
+New Mexico,NM,Torrance County,0,0,0
+Washington,WA,Pacific County,0,0,0
+North Carolina,NC,Pender County,0,0,0
+Texas,TX,Hood County,0,0,0
+South Dakota,SD,Stanley County,0,0,0
+Nevada,NV,Washoe County,1,0,1
+Kentucky,KY,Ballard County,0,0,0
+Texas,TX,Archer County,0,0,0
+Texas,TX,Baylor County,0,0,0
+Texas,TX,San Augustine County,0,0,0
+Nevada,NV,Storey County,0,0,1
+Georgia,GA,Schley County,0,0,0
+Texas,TX,Madison County,0,0,0
+California,CA,San Joaquin County,1,0,1
+Mississippi,MS,Winston County,0,0,0
+Kentucky,KY,Henry County,0,0,0
+Kentucky,KY,Mercer County,0,0,0
+Nebraska,NE,Wheeler County,0,0,0
+Kentucky,KY,Lewis County,0,0,0
+Minnesota,MN,Grant County,0,0,0
+Mississippi,MS,Humphreys County,0,0,0
+Alabama,AL,Clarke County,0,0,0
+Kansas,KS,Chase County,0,0,0
+Kentucky,KY,Trigg County,0,0,0
+Alabama,AL,Houston County,0,0,0
+South Dakota,SD,Aurora County,0,0,0
+Alaska,AK,Aleutians East Borough,1,1,0
+Nebraska,NE,Franklin County,0,0,0
+Maryland,MD,Kent County,0,0,0
+Kansas,KS,Crawford County,0,0,0
+Minnesota,MN,Chippewa County,0,0,0
+South Dakota,SD,Pennington County,1,0,1
+South Carolina,SC,Hampton County,0,0,1
+Idaho,ID,Fremont County,0,0,0
+Georgia,GA,Bryan County,0,1,0
+Virginia,VA,Dinwiddie County,0,0,0
+Florida,FL,St. Lucie County,1,0,0
+New York,NY,Monroe County,1,0,1
+South Dakota,SD,Lincoln County,0,0,0
+Wisconsin,WI,Chippewa County,1,0,0
+Kansas,KS,Woodson County,0,0,0
+Kentucky,KY,Marshall County,0,0,0
+Georgia,GA,Clinch County,0,0,0
+Georgia,GA,Lowndes County,1,0,0
+Hawaii,HI,Kalawao County,0,0,0
+Hawaii,HI,Kauai County,1,0,1
+Michigan,MI,Macomb County,1,0,0
+Georgia,GA,Turner County,0,0,0
+Illinois,IL,Jasper County,0,0,0
+Texas,TX,Milam County,0,0,0
+Indiana,IN,Spencer County,0,0,0
+Kentucky,KY,Hart County,0,0,0
+Kentucky,KY,Lincoln County,0,0,0
+Montana,MT,Blaine County,0,1,0
+Virginia,VA,Norfolk City,1,1,1
+Texas,TX,Reeves County,0,0,0
+Virginia,VA,Pulaski County,0,0,0
+North Carolina,NC,Union County,0,0,0
+North Dakota,ND,Mckenzie County,0,0,0
+Florida,FL,Okaloosa County,1,0,0
+California,CA,Alameda County,1,1,1
+Illinois,IL,Calhoun County,0,1,0
+Indiana,IN,Kosciusko County,0,0,0
+Mississippi,MS,Noxubee County,0,0,0
+Arkansas,AR,Woodruff County,0,0,0
+New Jersey,NJ,Gloucester County,0,0,0
+New Hampshire,NH,Hillsborough County,0,0,0
+Montana,MT,Judith Basin County,0,0,0
+North Carolina,NC,Mitchell County,0,0,0
+Montana,MT,Powell County,0,0,0
+Oregon,OR,Polk County,0,1,0
+Oregon,OR,Wasco County,0,1,0
+South Dakota,SD,Perkins County,0,0,0
+Iowa,IA,Taylor County,0,0,0
+Alabama,AL,Washington County,0,0,0
+Ohio,OH,Defiance County,0,0,0
+West Virginia,WV,Greenbrier County,1,0,1
+Illinois,IL,Marion County,0,0,1
+Virginia,VA,Dickenson County,0,0,0
+Virginia,VA,Amelia County,0,0,0
+Georgia,GA,Randolph County,0,0,0
+New Mexico,NM,Luna County,1,0,1
+Texas,TX,Nueces County,1,1,0
+Wyoming,WY,Weston County,0,0,0
+Illinois,IL,Warren County,0,0,0
+Alabama,AL,Madison County,1,0,0
+Tennessee,TN,Wilson County,0,0,1
+Texas,TX,Camp County,0,0,0
+Oklahoma,OK,Jefferson County,0,0,0
+West Virginia,WV,Ritchie County,0,0,0
+Iowa,IA,Page County,0,0,0
+Kansas,KS,Jefferson County,0,0,0
+Louisiana,LA,Iberia Parish,1,0,1
+Alaska,AK,Kusilvak Census Area,1,0,0
+North Carolina,NC,Onslow County,1,1,0
+Minnesota,MN,Faribault County,0,0,0
+Tennessee,TN,Grainger County,0,0,0
+Texas,TX,Freestone County,0,0,1
+Pennsylvania,PA,Mifflin County,0,0,1
+Alabama,AL,Crenshaw County,0,0,0
+Virginia,VA,Bristol City,0,0,0
+Texas,TX,Runnels County,0,0,0
+Texas,TX,Terrell County,0,0,1
+Kansas,KS,Rawlins County,0,0,0
+Kansas,KS,Thomas County,0,0,0
+Georgia,GA,Jeff Davis County,0,0,0
+Iowa,IA,Cherokee County,0,0,0
+Arkansas,AR,White County,0,0,0
+Mississippi,MS,Leflore County,0,0,1
+Missouri,MO,Cooper County,0,0,0
+Michigan,MI,Dickinson County,1,0,1
+Illinois,IL,Will County,0,0,1
+Texas,TX,Deaf Smith County,0,0,0
+South Dakota,SD,Brookings County,0,0,0
+Missouri,MO,Clay County,1,0,1
+Mississippi,MS,Coahoma County,0,0,0
+Indiana,IN,Boone County,0,0,0
+Iowa,IA,Des Moines County,1,0,1
+Iowa,IA,Scott County,0,1,0
+Kansas,KS,Ottawa County,0,0,0
+Florida,FL,Columbia County,0,0,0
+Florida,FL,Holmes County,0,0,0
+Mississippi,MS,Harrison County,1,0,1
+Tennessee,TN,Bradley County,0,0,0
+Minnesota,MN,Carlton County,0,0,0
+Texas,TX,Marion County,0,0,1
+New York,NY,Schoharie County,0,0,0
+Oklahoma,OK,Pawnee County,0,0,0
+New York,NY,Broome County,1,0,0
+Texas,TX,Liberty County,0,0,0
+Ohio,OH,Athens County,0,0,0
+Ohio,OH,Jefferson County,0,0,0
+West Virginia,WV,Randolph County,1,0,0
+West Virginia,WV,Marion County,0,0,0
+New Jersey,NJ,Cumberland County,1,0,0
+California,CA,Nevada County,1,0,1
+Wisconsin,WI,Douglas County,0,0,0
+Kentucky,KY,Pulaski County,1,0,0
+North Carolina,NC,Edgecombe County,0,0,0
+Texas,TX,Jasper County,0,0,0
+Utah,UT,Beaver County,0,0,0
+Georgia,GA,Murray County,0,0,0
+Indiana,IN,Jay County,0,0,0
+Michigan,MI,Montcalm County,0,0,0
+New York,NY,Rensselaer County,0,0,1
+Florida,FL,Collier County,1,1,0
+New Mexico,NM,Mckinley County,1,0,1
+Georgia,GA,Ben Hill County,0,0,0
+Arkansas,AR,Lee County,0,0,0
+Florida,FL,Baker County,0,0,0
+Georgia,GA,Lanier County,0,0,0
+Kansas,KS,Rice County,0,0,0
+Alabama,AL,Calhoun County,1,0,1
+Mississippi,MS,Jackson County,0,0,1
+Kentucky,KY,Campbell County,0,0,0
+Kentucky,KY,Cumberland County,0,0,0
+Mississippi,MS,Panola County,0,0,0
+Texas,TX,Hansford County,0,0,0
+Texas,TX,Chambers County,0,0,0
+Georgia,GA,Quitman County,0,0,0
+Texas,TX,Hardin County,0,0,0
+Ohio,OH,Sandusky County,0,0,0
+Maine,ME,Piscataquis County,0,0,0
+Illinois,IL,Pulaski County,0,0,0
+Oklahoma,OK,Okfuskee County,0,0,0
+Michigan,MI,Saginaw County,1,0,0
+New Mexico,NM,Rio Arriba County,0,0,0
+Vermont,VT,Caledonia County,0,0,0
+Virginia,VA,Botetourt County,0,0,0
+Illinois,IL,Madison County,1,0,1
+Texas,TX,Collin County,0,0,0
+South Carolina,SC,Abbeville County,0,0,0
+Nebraska,NE,Dodge County,0,0,0
+Florida,FL,Sarasota County,0,1,0
+Wisconsin,WI,Marquette County,0,0,0
+Arizona,AZ,Mohave County,1,1,1
+Arizona,AZ,Yavapai County,1,0,1
+South Carolina,SC,Horry County,1,0,0
+Pennsylvania,PA,Montgomery County,0,0,1
+Idaho,ID,Lewis County,0,0,0
+Virginia,VA,Norton City,0,0,0
+New Jersey,NJ,Morris County,1,0,1
+Missouri,MO,Sullivan County,0,0,0
+Kansas,KS,Ness County,0,0,0
+Texas,TX,Brazoria County,1,0,0
+Virginia,VA,Staunton City,0,0,1
+Nebraska,NE,Chase County,0,0,0
+Ohio,OH,Montgomery County,1,0,0
+Texas,TX,Throckmorton County,0,0,0
+Georgia,GA,Oglethorpe County,0,0,0
+Arkansas,AR,Conway County,0,0,0
+Missouri,MO,Nodaway County,0,0,0
+North Dakota,ND,Ransom County,0,0,0
+Michigan,MI,Bay County,0,0,0
+Tennessee,TN,Shelby County,1,0,1
+California,CA,Butte County,0,0,1
+Minnesota,MN,Pine County,0,0,0
+Texas,TX,Bastrop County,0,0,0
+Washington,WA,Klickitat County,1,0,1
+Washington,WA,San Juan County,1,1,1
+Wisconsin,WI,Brown County,1,0,0
+Kansas,KS,Wilson County,0,0,0
+Louisiana,LA,Natchitoches Parish,0,0,0
+Louisiana,LA,Terrebonne Parish,0,0,1
+Georgia,GA,Irwin County,0,0,0
+Alaska,AK,North Slope Borough,1,0,0
+Michigan,MI,Arenac County,0,0,0
+Iowa,IA,Lee County,0,0,1
+Kansas,KS,Osborne County,0,0,0
+Michigan,MI,Emmet County,1,0,0
+Iowa,IA,Fremont County,0,0,0
+Maine,ME,Lincoln County,0,1,1
+New York,NY,Seneca County,0,0,0
+Kentucky,KY,Laurel County,1,0,0
+Tennessee,TN,Meigs County,0,0,0
+Missouri,MO,Taney County,1,0,1
+Georgia,GA,Taylor County,0,0,0
+Virginia,VA,Williamsburg City,0,0,1
+Texas,TX,Scurry County,0,0,0
+Colorado,CO,Gilpin County,0,0,0
+Oklahoma,OK,Mcclain County,0,0,0
+West Virginia,WV,Pendleton County,0,0,0
+Virginia,VA,Page County,0,0,0
+Oklahoma,OK,Le Flore County,0,0,0
+West Virginia,WV,Summers County,0,0,1
+North Carolina,NC,Mecklenburg County,1,0,1
+New Jersey,NJ,Essex County,1,0,1
+Missouri,MO,Linn County,0,0,0
+Georgia,GA,Montgomery County,0,0,0
+Oregon,OR,Sherman County,0,0,0
+Georgia,GA,Greene County,0,0,0
+South Dakota,SD,Buffalo County,0,0,0
+South Dakota,SD,Mellette County,0,0,0
+Texas,TX,Ector County,0,0,0
+Texas,TX,Limestone County,0,0,0
+Washington,WA,Grays Harbor County,1,0,0
+West Virginia,WV,Berkeley County,1,0,1
+Montana,MT,Park County,1,0,0
+Texas,TX,Denton County,0,0,1
+South Carolina,SC,Cherokee County,0,0,0
+North Carolina,NC,Yancey County,0,0,0
+Texas,TX,Red River County,0,0,0
+Texas,TX,Matagorda County,0,0,0
+Minnesota,MN,Stevens County,0,0,0
+Georgia,GA,Warren County,0,0,0
+Texas,TX,Hardeman County,0,0,0
+Illinois,IL,Monroe County,0,0,0
+Georgia,GA,Jenkins County,0,0,0
+Kentucky,KY,Grayson County,0,0,0
+Texas,TX,Palo Pinto County,0,0,0
+Georgia,GA,Heard County,0,0,0
+Alabama,AL,Lawrence County,0,0,0
+Mississippi,MS,Marshall County,0,0,0
+Kansas,KS,Clark County,0,0,0
+Kansas,KS,Haskell County,0,0,0
+Louisiana,LA,Bienville Parish,0,0,0
+Georgia,GA,Walker County,0,0,0
+Iowa,IA,Iowa County,0,0,0
+Nebraska,NE,Buffalo County,1,0,0
+Oklahoma,OK,Beaver County,0,0,0
+Iowa,IA,Butler County,0,0,0
+Montana,MT,Roosevelt County,1,0,1
+Washington,WA,Cowlitz County,1,0,1
+Texas,TX,Live Oak County,0,0,0
+Missouri,MO,Moniteau County,0,0,0
+Virginia,VA,Westmoreland County,0,0,0
+North Carolina,NC,Yadkin County,0,0,0
+California,CA,Merced County,1,0,1
+Oklahoma,OK,Dewey County,0,0,0
+North Carolina,NC,Burke County,1,0,0
+North Carolina,NC,Wayne County,1,0,0
+Pennsylvania,PA,Warren County,0,0,0
+Arkansas,AR,Howard County,0,0,0
+North Carolina,NC,Davie County,0,0,0
+North Carolina,NC,Mcdowell County,0,0,0
+Arkansas,AR,Nevada County,0,0,0
+Colorado,CO,Yuma County,0,0,0
+Texas,TX,Sherman County,0,0,0
+Texas,TX,Uvalde County,0,0,0
+Ohio,OH,Auglaize County,0,0,0
+Louisiana,LA,Bossier Parish,1,0,0
+Iowa,IA,Emmet County,0,0,0
+Kansas,KS,Saline County,1,0,0
+Kentucky,KY,Magoffin County,0,0,0
+Texas,TX,Bailey County,0,0,0
+Missouri,MO,Callaway County,0,0,0
+Wyoming,WY,Albany County,1,0,0
+Wyoming,WY,Park County,1,0,0
+Pennsylvania,PA,Montour County,0,0,0
+New York,NY,Queens County,1,1,1
+Florida,FL,Suwannee County,0,0,0
+Michigan,MI,Cheboygan County,0,1,0
+Michigan,MI,Gladwin County,0,0,0
+Kentucky,KY,Montgomery County,0,0,0
+South Carolina,SC,Lancaster County,0,0,0
+Kentucky,KY,Larue County,0,0,0
+Iowa,IA,Woodbury County,1,0,0
+Florida,FL,Taylor County,0,0,1
+Illinois,IL,Alexander County,0,0,0
+Missouri,MO,Jefferson County,0,0,0
+Missouri,MO,Lincoln County,0,0,0
+Georgia,GA,Chatham County,1,1,1
+Florida,FL,Union County,0,0,0
+New York,NY,Genesee County,0,0,0
+Iowa,IA,Clay County,0,0,0
+Montana,MT,Fallon County,0,0,0
+South Dakota,SD,Potter County,0,0,0
+Texas,TX,Culberson County,0,0,0
+Maine,ME,Cumberland County,1,1,1
+Texas,TX,Atascosa County,0,0,0
+Kansas,KS,Kingman County,0,0,0
+Georgia,GA,Rabun County,0,0,0
+West Virginia,WV,Upshur County,0,0,0
+Missouri,MO,Texas County,0,0,0
+Arkansas,AR,Pulaski County,1,0,1
+Iowa,IA,Crawford County,0,0,0
+Idaho,ID,Bannock County,0,0,0
+Ohio,OH,Geauga County,0,0,0
+California,CA,Tulare County,1,0,0
+New York,NY,Wayne County,0,0,0
+Virginia,VA,Rockbridge County,0,0,0
+North Dakota,ND,Towner County,0,0,0
+Pennsylvania,PA,Delaware County,1,0,1
+New York,NY,Niagara County,1,1,1
+Vermont,VT,Bennington County,0,0,0
+Florida,FL,Clay County,0,0,0
+North Carolina,NC,Wake County,1,0,1
+Ohio,OH,Hamilton County,1,1,1
+New Jersey,NJ,Bergen County,1,1,1
+Nevada,NV,Lincoln County,1,0,0
+Alaska,AK,Nome Census Area,1,0,0
+Montana,MT,Mccone County,0,0,0
+Iowa,IA,Buchanan County,0,0,0
+Illinois,IL,Dupage County,1,0,1
+South Dakota,SD,Fall River County,0,0,0
+Minnesota,MN,Kittson County,0,0,0
+Georgia,GA,Oconee County,0,0,0
+Texas,TX,Wilson County,0,0,0
+Nebraska,NE,Fillmore County,0,0,0
+Florida,FL,Madison County,0,0,0
+Indiana,IN,Sullivan County,0,0,0
+Arizona,AZ,La Paz County,0,0,0
+Georgia,GA,Brooks County,0,0,0
+Alaska,AK,Aleutians West Census Area,1,1,0
+Alaska,AK,Kodiak Island Borough,1,1,0
+Kansas,KS,Stafford County,0,0,0
+Georgia,GA,Telfair County,0,0,0
+Michigan,MI,Monroe County,0,0,0
+Indiana,IN,White County,0,0,0
+Indiana,IN,Noble County,0,0,0
+Kentucky,KY,Livingston County,0,0,0
+Georgia,GA,Miller County,0,0,0
+Tennessee,TN,Lincoln County,0,0,0
+Kentucky,KY,Shelby County,0,0,0
+Nebraska,NE,York County,0,0,0
+Pennsylvania,PA,Adams County,0,0,0
+South Carolina,SC,Allendale County,0,0,0
+Tennessee,TN,Davidson County,1,0,1
+Utah,UT,Uintah County,1,0,0
+Utah,UT,Utah County,1,0,1
+Indiana,IN,Clay County,0,0,0
+New York,NY,Kings County,0,1,1
+Missouri,MO,Morgan County,0,0,0
+Ohio,OH,Holmes County,0,0,0
+Iowa,IA,Osceola County,0,0,0
+Indiana,IN,Jennings County,0,0,0
+Idaho,ID,Twin Falls County,1,0,0
+Illinois,IL,Saline County,0,0,0
+Michigan,MI,Kalamazoo County,1,0,1
+South Carolina,SC,Lee County,0,0,0
+Wyoming,WY,Johnson County,0,0,0
+Indiana,IN,Daviess County,0,0,0
+Michigan,MI,Grand Traverse County,1,0,0
+Louisiana,LA,Allen Parish,0,0,0
+South Dakota,SD,Hughes County,1,0,0
+South Dakota,SD,Hyde County,0,0,0
+South Carolina,SC,Clarendon County,0,0,0
+Montana,MT,Stillwater County,0,0,0
+Tennessee,TN,Bledsoe County,0,0,0
+Kentucky,KY,Todd County,0,0,0
+Tennessee,TN,Weakley County,0,0,0
+Missouri,MO,Greene County,1,0,0
+Pennsylvania,PA,Lehigh County,1,0,1
+Nebraska,NE,Seward County,0,0,0
+New York,NY,Chemung County,1,0,0
+New York,NY,Wyoming County,0,0,0
+California,CA,Stanislaus County,1,0,1
+Pennsylvania,PA,Northampton County,0,0,0
+Alabama,AL,Morgan County,0,0,0
+Kentucky,KY,Breckinridge County,0,0,0
+Mississippi,MS,Grenada County,0,0,0
+Kentucky,KY,Simpson County,0,0,0
+Vermont,VT,Grand Isle County,0,1,0
+Ohio,OH,Columbiana County,0,0,0
+Virginia,VA,Nelson County,0,0,0
+Florida,FL,Osceola County,1,0,1
+Arkansas,AR,Grant County,0,0,0
+Georgia,GA,Laurens County,0,0,0
+New York,NY,New York County,0,1,1
+Arkansas,AR,Benton County,1,0,0
+Florida,FL,Marion County,0,0,0
+Virginia,VA,Nottoway County,0,0,0
+New Jersey,NJ,Warren County,0,0,1
+New York,NY,Columbia County,0,1,1
+Virginia,VA,Martinsville City,0,0,0
+Oklahoma,OK,Choctaw County,0,0,0
+Kansas,KS,Dickinson County,0,0,0
+Texas,TX,Starr County,0,0,0
+Georgia,GA,Effingham County,0,0,0
+Oklahoma,OK,Roger Mills County,0,0,0
+Wisconsin,WI,Richland County,0,0,0
+New Mexico,NM,Lea County,1,0,0
+Alabama,AL,Lamar County,0,0,0
+Tennessee,TN,Marshall County,0,0,0
+Virginia,VA,Appomattox County,0,0,0
+Arkansas,AR,Madison County,0,0,0
+Wyoming,WY,Sheridan County,1,0,0
+Pennsylvania,PA,Cumberland County,0,0,0
+Pennsylvania,PA,Franklin County,0,0,0
+Pennsylvania,PA,Luzerne County,1,0,0
+Michigan,MI,Crawford County,0,0,0
+Alabama,AL,Russell County,0,0,0
+Ohio,OH,Carroll County,0,0,0
+Virginia,VA,Fluvanna County,0,0,0
+Illinois,IL,Lake County,0,0,1
+Georgia,GA,Madison County,0,0,0
+Arkansas,AR,Dallas County,0,0,0
+Colorado,CO,Jackson County,0,0,0
+Colorado,CO,Kit Carson County,0,0,0
+Idaho,ID,Owyhee County,0,0,0
+Wisconsin,WI,Wood County,0,0,0
+New York,NY,Chautauqua County,1,1,0
+Georgia,GA,Cobb County,1,0,0
+Tennessee,TN,Johnson County,0,0,0
+Ohio,OH,Belmont County,0,0,0
+Virginia,VA,Wise County,0,0,0
+Missouri,MO,Carter County,0,0,0
+Oklahoma,OK,Bryan County,1,0,0
+Nebraska,NE,Clay County,0,0,0
+Maryland,MD,Charles County,0,1,0
+Iowa,IA,Cerro Gordo County,1,0,0
+Iowa,IA,Greene County,0,0,0
+Kentucky,KY,Rowan County,0,0,0
+Utah,UT,Wayne County,0,0,0
+Missouri,MO,Cape Girardeau County,0,0,0
+Washington,WA,Walla Walla County,1,0,0
+Missouri,MO,Mississippi County,0,1,0
+Arkansas,AR,Cleveland County,0,0,0
+Texas,TX,Dallas County,1,0,1
+Indiana,IN,Dekalb County,0,0,1
+Louisiana,LA,Ouachita Parish,1,0,0
+Louisiana,LA,St. John The Baptist Parish,0,0,0
+Louisiana,LA,St. Helena Parish,0,0,0
+Missouri,MO,Schuyler County,0,0,0
+Alabama,AL,Franklin County,0,0,0
+Kentucky,KY,Carroll County,0,0,0
+Colorado,CO,Clear Creek County,0,0,1
+Texas,TX,Kimble County,1,0,0
+Michigan,MI,Mackinac County,0,1,0
+Texas,TX,Mcculloch County,1,0,0
+Mississippi,MS,Tishomingo County,0,0,0
+Texas,TX,Crockett County,0,0,0
+Texas,TX,Hill County,0,0,0
+Colorado,CO,Logan County,0,0,0
+Kansas,KS,Finney County,1,0,1
+Kansas,KS,Montgomery County,0,0,0
+South Carolina,SC,Fairfield County,0,0,0
+Nebraska,NE,Cheyenne County,1,0,0
+Minnesota,MN,Martin County,0,0,0
+Tennessee,TN,Sevier County,0,0,1
+Tennessee,TN,Polk County,0,0,0
+Texas,TX,Kent County,0,0,0
+Montana,MT,Teton County,0,0,0
+Nebraska,NE,Garden County,0,0,0
+Illinois,IL,Macoupin County,0,0,1
+Ohio,OH,Ross County,0,0,0
+Illinois,IL,Whiteside County,0,0,0
+Texas,TX,El Paso County,1,0,1
+Texas,TX,Loving County,0,0,0
+Oklahoma,OK,Latimer County,0,0,0
+Ohio,OH,Washington County,0,0,0
+Missouri,MO,Howell County,0,0,0
+Kansas,KS,Edwards County,0,0,0
+Kentucky,KY,Jefferson County,1,0,0
+Illinois,IL,Logan County,0,0,1
+Wisconsin,WI,Winnebago County,1,0,0
+Kentucky,KY,Fulton County,0,1,0
+Kansas,KS,Harvey County,0,0,1
+Montana,MT,Dawson County,1,0,0
+West Virginia,WV,Taylor County,0,0,0
+Michigan,MI,Midland County,0,0,0
+Mississippi,MS,Quitman County,0,0,0
+Kentucky,KY,Hardin County,1,0,0
+Illinois,IL,Jefferson County,0,0,0
+South Dakota,SD,Hamlin County,0,0,0
+Wisconsin,WI,Lincoln County,0,0,0
+New York,NY,Franklin County,1,0,0
+Virginia,VA,Fredericksburg City,0,0,1
+West Virginia,WV,Raleigh County,1,0,0
+New Mexico,NM,Chaves County,1,0,0
+New Mexico,NM,Santa Fe County,1,0,1
+California,CA,Orange County,1,1,1
+Arizona,AZ,Santa Cruz County,1,0,0
+North Carolina,NC,Currituck County,0,1,0
+Illinois,IL,Lawrence County,0,0,0
+Indiana,IN,Howard County,0,0,0
+Indiana,IN,Pike County,0,0,0
+Kentucky,KY,Christian County,1,0,0
+Michigan,MI,Eaton County,0,0,0
+Iowa,IA,Wapello County,1,0,1
+California,CA,Imperial County,1,0,0
+Michigan,MI,Cass County,0,0,1
+Mississippi,MS,Wilkinson County,0,0,0
+Alaska,AK,Yakutat City And Borough,1,1,0
+Kansas,KS,Sheridan County,0,0,0
+Mississippi,MS,Leake County,0,0,0
+Mississippi,MS,Clay County,0,0,0
+Mississippi,MS,Franklin County,0,0,0
+Mississippi,MS,Neshoba County,0,0,0
+South Dakota,SD,Edmunds County,0,0,0
+Alabama,AL,Conecuh County,0,0,0
+Indiana,IN,Dearborn County,0,0,0
+Indiana,IN,Jackson County,0,0,0
+Mississippi,MS,Lee County,1,0,0
+Louisiana,LA,West Feliciana Parish,0,1,0
+Arkansas,AR,Crittenden County,0,0,0
+Florida,FL,Jackson County,0,0,0
+Texas,TX,Dickens County,0,0,0
+Virginia,VA,Mathews County,0,0,0
+North Dakota,ND,Renville County,0,0,0
+Texas,TX,La Salle County,0,0,0
+New York,NY,Onondaga County,1,0,1
+Iowa,IA,Henry County,0,0,1
+Nebraska,NE,Harlan County,0,0,0
+Montana,MT,Powder River County,0,0,0
+Wisconsin,WI,Pepin County,0,0,0
+Arizona,AZ,Apache County,0,0,0
+Missouri,MO,Macon County,0,0,1
+Texas,TX,Lamb County,0,0,0
+Kansas,KS,Kiowa County,0,0,0
+Texas,TX,Austin County,0,0,0
+Missouri,MO,Daviess County,0,0,0
+Georgia,GA,Seminole County,0,0,0
+Michigan,MI,Manistee County,0,0,0
+Iowa,IA,Lyon County,0,0,0
+Texas,TX,Hutchinson County,0,0,0
+Oklahoma,OK,Texas County,1,0,0
+Oklahoma,OK,Woodward County,1,0,0
+Iowa,IA,Adams County,0,0,0
+California,CA,Sutter County,0,0,0
+Pennsylvania,PA,Potter County,0,0,0
+Texas,TX,Val Verde County,1,0,1
+Kansas,KS,Harper County,0,0,0
+Iowa,IA,Monona County,0,0,0
+Utah,UT,Juab County,0,0,0
+Oklahoma,OK,Stephens County,0,0,0
+New York,NY,Chenango County,0,0,0
+Illinois,IL,Peoria County,1,0,0
+Iowa,IA,Humboldt County,0,0,0
+Nebraska,NE,Washington County,0,0,0
+Wisconsin,WI,Iowa County,0,0,0
+Minnesota,MN,Morrison County,0,0,0
+Pennsylvania,PA,Allegheny County,1,0,1
+Missouri,MO,Shelby County,0,0,0
+Ohio,OH,Madison County,0,0,0
+Kansas,KS,Washington County,0,0,0
+Illinois,IL,Champaign County,1,0,1
+Idaho,ID,Washington County,0,0,0
+Illinois,IL,Edgar County,0,0,0
+Colorado,CO,Washington County,0,0,0
+Ohio,OH,Hardin County,0,0,0
+Michigan,MI,Missaukee County,0,0,0
+North Dakota,ND,Stutsman County,1,0,0
+Missouri,MO,Shannon County,0,1,0
+Texas,TX,Smith County,1,0,0
+Oklahoma,OK,Tulsa County,1,0,1
+Oklahoma,OK,Mcintosh County,0,0,0
+Texas,TX,Robertson County,0,0,0
+Texas,TX,Gillespie County,0,0,0
+Michigan,MI,Oakland County,1,0,1
+North Dakota,ND,Golden Valley County,0,0,0
+Wyoming,WY,Niobrara County,0,0,0
+Minnesota,MN,Pipestone County,0,0,0
+Virginia,VA,King George County,0,0,0
+Washington,WA,Grant County,1,0,1
+Minnesota,MN,Renville County,0,0,0
+Florida,FL,Alachua County,1,0,0
+Nebraska,NE,Hooker County,0,0,0
+Virginia,VA,Prince Edward County,0,0,0
+Utah,UT,Carbon County,0,0,1
+Pennsylvania,PA,Bucks County,0,0,1
+South Dakota,SD,Hand County,0,0,0
+Pennsylvania,PA,Lycoming County,1,0,0
+Idaho,ID,Latah County,0,0,0
+Georgia,GA,Putnam County,0,0,0
+Virginia,VA,Galax City,0,0,0
+New Mexico,NM,Quay County,1,0,0
+Texas,TX,King County,0,0,0
+Arkansas,AR,Lafayette County,0,0,0
+Texas,TX,Tom Green County,1,0,0
+Florida,FL,Hardee County,0,0,0
+Ohio,OH,Clermont County,0,0,0
+Texas,TX,Yoakum County,0,0,0
+Oregon,OR,Yamhill County,1,1,0
+Iowa,IA,Louisa County,0,0,0
+Kansas,KS,Elk County,0,0,0
+Ohio,OH,Noble County,0,0,0
+Ohio,OH,Putnam County,0,0,0
+Texas,TX,Somervell County,0,0,0
+Pennsylvania,PA,Lebanon County,1,0,0
+Montana,MT,Glacier County,1,1,1
+Nevada,NV,Pershing County,1,0,0
+Minnesota,MN,Mahnomen County,0,0,0
+New Jersey,NJ,Passaic County,0,0,1
+Montana,MT,Lake County,0,0,0
+Texas,TX,Kenedy County,0,0,0
+Texas,TX,Borden County,0,0,0
+Missouri,MO,Perry County,0,0,0
+Texas,TX,San Saba County,0,0,0
+Oklahoma,OK,Kingfisher County,0,0,0
+Texas,TX,Burleson County,0,0,0
+New York,NY,Fulton County,0,0,0
+Mississippi,MS,Sunflower County,0,0,0
+Minnesota,MN,Hennepin County,1,0,1
+Pennsylvania,PA,Centre County,1,0,1
+Texas,TX,Bee County,0,0,0
+Tennessee,TN,Henderson County,0,0,0
+Iowa,IA,Tama County,0,0,0
+Kansas,KS,Seward County,1,0,0
+Iowa,IA,Monroe County,0,0,0
+Nebraska,NE,Richardson County,0,0,0
+Illinois,IL,Christian County,0,0,0
+Florida,FL,Nassau County,0,0,0
+Florida,FL,Washington County,0,0,0
+Georgia,GA,Baker County,0,0,0
+Georgia,GA,Thomas County,0,0,0
+Kentucky,KY,Anderson County,0,0,0
+Kentucky,KY,Oldham County,0,0,0
+Georgia,GA,Cherokee County,0,0,0
+North Dakota,ND,Oliver County,0,0,0
+Michigan,MI,Osceola County,0,0,0
+Tennessee,TN,Mcnairy County,0,0,0
+Washington,WA,Adams County,0,0,0
+Missouri,MO,Dade County,0,0,0
+Louisiana,LA,St. Mary Parish,0,0,0
+Vermont,VT,Chittenden County,1,1,1
+Hawaii,HI,Maui County,1,0,0
+Louisiana,LA,Lafourche Parish,0,0,0
+Iowa,IA,Muscatine County,0,0,0
+Florida,FL,Santa Rosa County,1,0,0
+Indiana,IN,Martin County,0,0,0
+Kentucky,KY,Rockcastle County,0,0,0
+Kentucky,KY,Trimble County,0,0,0
+Georgia,GA,Chattooga County,0,0,0
+South Carolina,SC,Dillon County,0,0,1
+North Carolina,NC,Jones County,0,0,0
+Missouri,MO,Scotland County,0,0,0
+Kansas,KS,Nemaha County,0,0,0
+Kansas,KS,Norton County,0,0,0
+Nebraska,NE,Furnas County,0,0,0
+Georgia,GA,Decatur County,0,0,0
+Indiana,IN,Wayne County,0,0,0
+Kentucky,KY,Barren County,0,0,0
+Nebraska,NE,Howard County,0,0,0
+North Dakota,ND,Dunn County,0,0,0
+California,CA,Amador County,0,0,0
+Tennessee,TN,Fentress County,0,0,0
+Kansas,KS,Coffey County,0,0,0
+Michigan,MI,Branch County,0,0,0
+Virginia,VA,Campbell County,1,0,0
+Ohio,OH,Meigs County,0,0,0
+West Virginia,WV,Nicholas County,0,0,0
+Oklahoma,OK,Grant County,0,0,0
+South Dakota,SD,Spink County,0,0,0
+Vermont,VT,Windsor County,0,0,1
+Texas,TX,Trinity County,0,0,0
+New Mexico,NM,Bernalillo County,1,0,1
+Georgia,GA,Mitchell County,0,0,0
+Hawaii,HI,Hawaii County,1,0,0
+Kentucky,KY,Mccreary County,0,0,0
+Kentucky,KY,Pendleton County,0,0,0
+Kentucky,KY,Spencer County,0,0,0
+Montana,MT,Hill County,1,0,1
+Nebraska,NE,Valley County,0,0,0
+Texas,TX,Castro County,0,0,0
+Maryland,MD,Washington County,1,0,0
+Kentucky,KY,Letcher County,0,0,0
+New Jersey,NJ,Salem County,0,0,0
+Virginia,VA,Lynchburg City,0,0,1
+Arkansas,AR,Saline County,1,0,0
+West Virginia,WV,Mason County,0,0,0
+West Virginia,WV,Gilmer County,0,0,0
+Mississippi,MS,Jefferson County,0,0,0
+North Dakota,ND,Rolette County,0,0,0
+Montana,MT,Treasure County,0,0,0
+Kentucky,KY,Clark County,0,0,0
+Michigan,MI,Allegan County,0,0,0
+Tennessee,TN,Benton County,0,1,0
+Minnesota,MN,Brown County,0,0,0
+Tennessee,TN,Pickett County,0,0,0
+Virginia,VA,Louisa County,0,0,0
+Indiana,IN,Shelby County,0,0,0
+Ohio,OH,Franklin County,1,0,0
+Utah,UT,Iron County,1,0,0
+Nevada,NV,Esmeralda County,0,0,0
+Michigan,MI,Keweenaw County,0,1,0
+Utah,UT,Sanpete County,0,0,0
+Kansas,KS,Kearny County,0,0,0
+Florida,FL,Brevard County,1,1,0
+Indiana,IN,Monroe County,1,0,0
+Iowa,IA,Lucas County,0,0,0
+Kentucky,KY,Woodford County,0,0,0
+South Carolina,SC,Jasper County,0,0,0
+Texas,TX,Brewster County,0,0,1
+South Carolina,SC,Mccormick County,0,0,0
+South Carolina,SC,Union County,0,0,0
+Minnesota,MN,Nicollet County,0,0,0
+Wisconsin,WI,Marinette County,0,0,0
+Washington,WA,Clark County,0,0,1
+Wisconsin,WI,Price County,0,0,0
+Indiana,IN,Miami County,1,0,0
+Kansas,KS,Ellsworth County,0,0,0
+Louisiana,LA,West Carroll Parish,0,0,0
+Florida,FL,Liberty County,0,0,1
+Kansas,KS,Hodgeman County,0,0,0
+Kansas,KS,Meade County,0,0,0
+Kentucky,KY,Mclean County,0,0,0
+Mississippi,MS,Adams County,0,0,0
+Mississippi,MS,Itawamba County,0,0,0
+Kentucky,KY,Franklin County,0,0,0
+Maine,ME,Hancock County,1,1,0
+Maine,ME,Knox County,1,1,0
+Georgia,GA,Newton County,0,0,0
+South Dakota,SD,Faulk County,0,0,0
+Michigan,MI,Houghton County,1,1,0
+Montana,MT,Mineral County,0,0,0
+Tennessee,TN,Franklin County,0,0,0
+Louisiana,LA,Concordia Parish,0,1,0
+Louisiana,LA,Livingston Parish,0,0,0
+Massachusetts,MA,Essex County,1,1,1
+South Dakota,SD,Butte County,0,0,0
+Colorado,CO,Douglas County,0,0,0
+South Carolina,SC,Richland County,1,0,1
+Indiana,IN,Madison County,0,0,0
+Oklahoma,OK,Murray County,0,0,0
+West Virginia,WV,Brooke County,0,0,0
+West Virginia,WV,Calhoun County,0,0,0
+Virginia,VA,Bland County,0,0,0
+Montana,MT,Yellowstone County,1,0,0
+West Virginia,WV,Lincoln County,0,0,0
+California,CA,Lake County,0,0,0
+Georgia,GA,Grady County,0,0,0
+Colorado,CO,Conejos County,0,0,1
+Utah,UT,San Juan County,0,1,0
+Indiana,IN,Putnam County,0,0,0
+Idaho,ID,Gooding County,0,0,0
+Tennessee,TN,Tipton County,0,0,0
+Louisiana,LA,West Baton Rouge Parish,0,0,0
+Missouri,MO,Putnam County,0,0,0
+Wyoming,WY,Teton County,1,1,0
+Wisconsin,WI,Grant County,0,1,0
+North Dakota,ND,Morton County,0,0,0
+North Carolina,NC,Chowan County,0,0,0
+North Carolina,NC,Buncombe County,1,0,0
+California,CA,Plumas County,0,0,0
+Virginia,VA,Petersburg City,0,0,0
+Vermont,VT,Washington County,1,0,1
+South Dakota,SD,Meade County,1,0,0
+Indiana,IN,Marion County,1,0,1
+Arkansas,AR,Chicot County,0,0,0
+Georgia,GA,Bibb County,1,0,0
+Arkansas,AR,Pope County,0,0,0
+Virginia,VA,Southampton County,0,0,0
+Texas,TX,Gregg County,1,0,1
+New York,NY,Rockland County,0,1,1
+Arkansas,AR,Marion County,0,1,0
+Virginia,VA,Suffolk City,0,0,0
+Colorado,CO,El Paso County,1,0,1
+Missouri,MO,St. Francois County,0,0,0
+Texas,TX,Ward County,0,0,0
+Colorado,CO,Kiowa County,0,0,0
+Texas,TX,Wilbarger County,0,0,0
+Oregon,OR,Curry County,0,0,0
+Colorado,CO,Teller County,0,0,0
+Missouri,MO,Clinton County,0,0,0
+Utah,UT,Wasatch County,0,0,1
+Idaho,ID,Caribou County,0,0,0
+North Carolina,NC,Rockingham County,0,0,0
+Arkansas,AR,Prairie County,0,0,0
+Arkansas,AR,Bradley County,0,0,0
+Texas,TX,Hamilton County,0,0,0
+Maryland,MD,Caroline County,0,0,0
+Minnesota,MN,Douglas County,1,0,0
+Montana,MT,Jefferson County,0,0,0
+Virginia,VA,Fairfax County,1,0,1
+Montana,MT,Deer Lodge County,0,0,0
+Tennessee,TN,Anderson County,0,0,0
+Ohio,OH,Huron County,0,0,0
+Georgia,GA,Bacon County,0,0,0
+Delaware,DE,Kent County,1,0,0
+Ohio,OH,Wood County,0,0,1
+Georgia,GA,Jackson County,0,0,0
+Kansas,KS,Anderson County,0,0,0
+Illinois,IL,Knox County,0,0,1
+Montana,MT,Wheatland County,0,0,0
+Tennessee,TN,Cannon County,0,0,0
+Maine,ME,Franklin County,0,0,0
+Kentucky,KY,Menifee County,0,0,0
+South Dakota,SD,Mcpherson County,0,0,0
+Colorado,CO,Gunnison County,1,0,0
+Michigan,MI,Charlevoix County,0,1,0
+Minnesota,MN,Swift County,0,0,0
+Ohio,OH,Seneca County,0,0,0
+Georgia,GA,Tattnall County,0,0,0
+Texas,TX,Stephens County,0,0,0
+North Carolina,NC,Martin County,0,0,0
+Montana,MT,Ravalli County,0,0,0
+Georgia,GA,Wilkes County,0,0,0
+Washington,WA,Lincoln County,0,1,1
+California,CA,San Mateo County,1,1,1
+Ohio,OH,Williams County,0,0,1
+Colorado,CO,Baca County,0,0,0
+Idaho,ID,Boundary County,0,0,0
+Idaho,ID,Bear Lake County,0,0,0
+Ohio,OH,Union County,0,0,0
+Ohio,OH,Cuyahoga County,1,1,1
+Texas,TX,Lavaca County,0,0,0
+Oklahoma,OK,Nowata County,0,0,0
+Georgia,GA,Glascock County,0,0,0
+Oregon,OR,Umatilla County,1,0,0
+South Dakota,SD,Oglala Lakota County,0,0,0
+Kansas,KS,Marshall County,0,0,0
+Louisiana,LA,Madison Parish,0,0,0
+Montana,MT,Valley County,1,0,1
+Georgia,GA,Whitfield County,0,0,0
+Kansas,KS,Wichita County,0,0,0
+South Dakota,SD,Charles Mix County,0,0,0
+Nebraska,NE,Cedar County,0,0,0
+Washington,WA,Kitsap County,1,1,0
+Illinois,IL,Mchenry County,0,0,1
+Montana,MT,Petroleum County,0,0,0
+Missouri,MO,Carroll County,0,0,0
+Washington,WA,Whitman County,1,0,0
+Minnesota,MN,Steele County,0,0,0
+Nebraska,NE,Thayer County,0,0,0
+Tennessee,TN,Crockett County,0,0,0
+Iowa,IA,Hamilton County,0,0,0
+Ohio,OH,Warren County,0,0,1
+Georgia,GA,Spalding County,0,0,0
+New Jersey,NJ,Hunterdon County,0,0,1
+Missouri,MO,Vernon County,0,0,0
+Indiana,IN,Parke County,0,0,0
+Iowa,IA,Franklin County,0,0,0
+Georgia,GA,Butts County,0,0,0
+Colorado,CO,Elbert County,0,0,0
+Rhode Island,RI,Bristol County,0,1,0
+Texas,TX,Bosque County,0,0,0
+Rhode Island,RI,Newport County,0,1,1
+Ohio,OH,Fairfield County,0,0,0
+North Dakota,ND,Pierce County,0,0,1
+Illinois,IL,Carroll County,0,0,0
+Minnesota,MN,Red Lake County,0,0,0
+Oregon,OR,Jefferson County,0,0,0
+Tennessee,TN,Cheatham County,0,0,0
+South Dakota,SD,Union County,0,0,0
+Alabama,AL,Elmore County,0,0,0
+Georgia,GA,Lumpkin County,0,0,0
+Ohio,OH,Knox County,0,0,0
+Iowa,IA,Bremer County,0,0,0
+Texas,TX,Goliad County,0,0,0
+North Carolina,NC,Henderson County,0,0,0
+Florida,FL,Indian River County,1,0,0
+Texas,TX,Roberts County,0,0,0
+Nebraska,NE,Deuel County,0,0,0
+New York,NY,Livingston County,0,0,0
+Iowa,IA,O'Brien County,0,0,0
+Texas,TX,Callahan County,0,0,0
+Texas,TX,Rains County,0,0,0
+Kansas,KS,Grant County,0,0,0
+Virginia,VA,Lee County,0,0,0
+New Mexico,NM,Sierra County,1,0,0
+Arkansas,AR,Drew County,1,0,0
+Nebraska,NE,Morrill County,0,0,0
+Missouri,MO,Benton County,0,0,0
+Arkansas,AR,Pike County,0,0,0
+Colorado,CO,Mesa County,1,0,1
+Missouri,MO,Dent County,0,0,0
+Virginia,VA,Tazewell County,0,0,0
+Pennsylvania,PA,Pike County,0,0,0
+Pennsylvania,PA,Susquehanna County,0,0,0
+Texas,TX,Morris County,0,0,0
+Pennsylvania,PA,Washington County,0,0,0
+Vermont,VT,Addison County,0,1,1
+Kansas,KS,Leavenworth County,0,0,0
+Michigan,MI,Muskegon County,1,1,0
+Alaska,AK,Copper River Census Area,1,0,0
+Alaska,AK,Chugach Census Area,1,1,1
+Mississippi,MS,Hinds County,0,0,1
+Texas,TX,Lampasas County,0,0,0
+Virginia,VA,Loudoun County,1,0,1
+Missouri,MO,St. Clair County,0,0,0
+New York,NY,Delaware County,0,0,1
+Montana,MT,Phillips County,0,0,1
+Missouri,MO,Mercer County,0,0,0
+Washington,WA,Mason County,0,0,0
+North Carolina,NC,Nash County,1,0,1
+Virginia,VA,York County,0,0,0
+Missouri,MO,Pettis County,0,0,1
+Montana,MT,Missoula County,1,0,0
+Kansas,KS,Chautauqua County,0,0,0
+Texas,TX,Upshur County,0,0,0
+Virginia,VA,Culpeper County,0,0,1
+Oklahoma,OK,Haskell County,0,0,0
+West Virginia,WV,Ohio County,1,0,0
+West Virginia,WV,Morgan County,0,0,0
+Virginia,VA,Rockingham County,0,0,0
+Indiana,IN,Whitley County,0,0,0
+California,CA,Siskiyou County,0,0,1
+South Dakota,SD,Day County,0,0,0
+Louisiana,LA,Orleans Parish,1,1,1
+Alabama,AL,Jefferson County,1,0,1
+Alabama,AL,Walker County,0,0,0
+Missouri,MO,Dekalb County,0,0,0
+Florida,FL,Gadsden County,0,0,0
+Georgia,GA,Dade County,0,0,0
+Mississippi,MS,Desoto County,0,0,0
+Virginia,VA,Warren County,0,0,0
+Illinois,IL,Edwards County,0,0,0
+Tennessee,TN,Madison County,1,0,0
+Alabama,AL,Randolph County,0,0,0
+North Carolina,NC,Ashe County,0,0,0
+Colorado,CO,Dolores County,0,0,0
+Ohio,OH,Licking County,0,0,0
+Virginia,VA,Manassas City,0,0,1
+Arkansas,AR,Union County,1,0,0
+Illinois,IL,Henderson County,0,0,0
+Alabama,AL,Montgomery County,1,0,0
+Colorado,CO,Arapahoe County,1,0,0
+Kentucky,KY,Marion County,0,0,0
+Washington,WA,Skagit County,0,1,1
+Mississippi,MS,Jones County,1,0,0
+Wisconsin,WI,Columbia County,0,1,1
+North Carolina,NC,Brunswick County,0,1,0
+Minnesota,MN,Clearwater County,0,0,0
+Virginia,VA,Northampton County,0,0,0
+Kansas,KS,Rooks County,0,0,0
+Indiana,IN,Fayette County,0,0,1
+Nebraska,NE,Hall County,1,0,0
+Nebraska,NE,Hamilton County,0,0,0
+Nebraska,NE,Loup County,0,0,0
+Montana,MT,Sheridan County,0,0,0
+Nebraska,NE,Frontier County,0,0,0
+Alabama,AL,Bibb County,0,0,0
+Mississippi,MS,Lauderdale County,1,0,1
+Minnesota,MN,Big Stone County,0,0,0
+Minnesota,MN,Blue Earth County,0,0,0
+Virginia,VA,Highland County,0,0,0
+Virginia,VA,Spotsylvania County,0,0,1
+New Hampshire,NH,Strafford County,0,0,1
+Georgia,GA,Houston County,1,0,0
+Michigan,MI,Delta County,1,0,0
+Arkansas,AR,Sebastian County,1,0,0
+California,CA,Santa Cruz County,0,0,1
+Georgia,GA,Mcintosh County,0,0,0
+Georgia,GA,Monroe County,0,0,0
+Missouri,MO,Dunklin County,0,0,0
+Texas,TX,Wheeler County,0,0,0
+Georgia,GA,Forsyth County,0,0,0
+Texas,TX,San Patricio County,0,0,0
+Mississippi,MS,Walthall County,0,0,0
+Missouri,MO,Monroe County,0,0,0
+Michigan,MI,Isabella County,0,0,0
+Texas,TX,Moore County,0,0,0
+South Carolina,SC,Calhoun County,0,0,0
+Wyoming,WY,Sublette County,1,0,0
+Kentucky,KY,Fleming County,0,0,0
+Wisconsin,WI,Clark County,0,0,0
+South Carolina,SC,York County,0,0,0
+Indiana,IN,Adams County,0,0,0
+Louisiana,LA,Ascension Parish,0,0,0
+Pennsylvania,PA,Union County,0,0,0
+Virginia,VA,Chesterfield County,0,0,1
+Louisiana,LA,Acadia Parish,0,0,0
+Pennsylvania,PA,Crawford County,0,0,0
+South Dakota,SD,Tripp County,0,0,0
+Iowa,IA,Guthrie County,0,0,0
+Iowa,IA,Washington County,0,0,0
+South Dakota,SD,Sanborn County,0,0,0
+Oklahoma,OK,Grady County,0,0,0
+West Virginia,WV,Kanawha County,1,0,0
+Wisconsin,WI,St. Croix County,1,0,0
+Pennsylvania,PA,Venango County,1,0,1
+Ohio,OH,Summit County,1,0,1
+Georgia,GA,Glynn County,1,0,0
+Texas,TX,Webb County,1,0,0
+North Carolina,NC,Montgomery County,0,0,0
+Maine,ME,Aroostook County,1,0,0
+Mississippi,MS,Jefferson Davis County,0,0,0
+Indiana,IN,Washington County,0,0,0
+Texas,TX,Blanco County,0,0,0
+Virginia,VA,Brunswick County,0,0,0
+Tennessee,TN,Dyer County,0,0,0
+Tennessee,TN,Gibson County,0,0,0
+Virginia,VA,Prince George County,0,0,0
+Arkansas,AR,Lawrence County,0,0,1
+North Dakota,ND,Eddy County,0,0,0
+Washington,WA,Pierce County,1,1,1
+Idaho,ID,Lincoln County,0,0,0
+Pennsylvania,PA,Lancaster County,1,0,1
+Wisconsin,WI,Juneau County,1,0,0
+Tennessee,TN,Scott County,0,0,0
+South Dakota,SD,Corson County,0,0,0
+South Dakota,SD,Gregory County,0,0,0
+North Carolina,NC,Vance County,0,0,0
+Kentucky,KY,Caldwell County,0,0,0
+South Carolina,SC,Barnwell County,0,0,0
+Tennessee,TN,Decatur County,0,0,0
+Indiana,IN,Blackford County,0,0,0
+Alabama,AL,Etowah County,0,0,0
+Idaho,ID,Camas County,0,0,0
+Kansas,KS,Reno County,1,0,1
+Tennessee,TN,Maury County,0,0,0
+Wyoming,WY,Goshen County,0,0,0
+Wisconsin,WI,Rusk County,0,0,0
+Wisconsin,WI,Waukesha County,0,0,1
+Kentucky,KY,Garrard County,0,0,0
+Massachusetts,MA,Norfolk County,1,1,1
+Indiana,IN,Hendricks County,0,0,0
+Illinois,IL,Jackson County,1,0,1
+South Carolina,SC,Georgetown County,0,1,0
+North Dakota,ND,Hettinger County,0,0,0
+Utah,UT,Grand County,1,0,0
+Utah,UT,Tooele County,1,0,0
+Virginia,VA,Hampton City,1,0,0
+Wisconsin,WI,Buffalo County,0,0,0
+Virginia,VA,Frederick County,0,0,0
+West Virginia,WV,Lewis County,0,0,0
+Minnesota,MN,Polk County,0,0,0
+Minnesota,MN,Redwood County,1,0,0
+Tennessee,TN,Fayette County,0,0,0
+Louisiana,LA,St. Charles Parish,0,0,0
+Arkansas,AR,Poinsett County,0,0,0
+Florida,FL,Gulf County,0,0,0
+Tennessee,TN,Hamblen County,0,0,0
+Alabama,AL,Chilton County,0,0,0
+Texas,TX,Newton County,0,0,0
+Texas,TX,Hockley County,0,0,0
+Georgia,GA,Baldwin County,0,0,0
+North Carolina,NC,Transylvania County,0,0,0
+North Carolina,NC,Surry County,0,0,0
+Alabama,AL,Coffee County,0,0,0
+Ohio,OH,Shelby County,0,0,0
+Idaho,ID,Canyon County,0,0,0
+Montana,MT,Daniels County,0,0,0
+Florida,FL,Leon County,1,0,0
+Oklahoma,OK,Payne County,1,0,0
+Alabama,AL,Covington County,1,0,0
+Indiana,IN,Lawrence County,0,0,0
+Kansas,KS,Gray County,0,0,0
+Kentucky,KY,Casey County,0,0,0
+Kentucky,KY,Metcalfe County,0,0,0
+Kentucky,KY,Russell County,0,0,0
+Louisiana,LA,Beauregard Parish,1,0,0
+Maine,ME,Somerset County,0,0,0
+Oklahoma,OK,Cimarron County,0,0,0
+Kentucky,KY,Meade County,0,0,0
+Kentucky,KY,Nelson County,0,0,0
+Kentucky,KY,Owen County,0,0,0
+Missouri,MO,Pemiscot County,0,0,0
+Nebraska,NE,Nance County,0,0,0
+Wisconsin,WI,Menominee County,0,0,0
+Texas,TX,Panola County,0,0,0
+Kentucky,KY,Bath County,0,0,0
+Texas,TX,Anderson County,0,0,1
+Virginia,VA,Caroline County,0,0,0
+Iowa,IA,Sioux County,0,0,0
+California,CA,Glenn County,0,0,0
+Missouri,MO,St. Louis City,0,0,1
+Georgia,GA,Fannin County,0,0,1
+South Dakota,SD,Grant County,0,0,0
+South Dakota,SD,Marshall County,0,0,0
+Washington,WA,Thurston County,1,0,0
+Nebraska,NE,Knox County,0,0,0
+New Mexico,NM,Valencia County,0,0,1
+Montana,MT,Prairie County,0,0,0
+Iowa,IA,Allamakee County,0,0,0
+Texas,TX,Cameron County,1,0,0
+Texas,TX,Montgomery County,1,0,0
+Colorado,CO,Las Animas County,0,0,1
+Texas,TX,Llano County,0,0,0
+Texas,TX,Mason County,0,0,0
+North Carolina,NC,Clay County,0,0,0
+New York,NY,Orange County,1,1,1
+New York,NY,Schenectady County,1,0,1
+West Virginia,WV,Mingo County,0,0,0
+Kansas,KS,Wabaunsee County,0,0,0
+Minnesota,MN,Houston County,0,0,0
+Kentucky,KY,Nicholas County,0,0,0
+Massachusetts,MA,Plymouth County,0,1,1
+New York,NY,Bronx County,0,1,1
+North Carolina,NC,Dare County,0,1,0
+Ohio,OH,Medina County,0,0,1
+Pennsylvania,PA,Armstrong County,0,0,0
+New Jersey,NJ,Atlantic County,1,0,1
+Wisconsin,WI,Manitowoc County,0,1,0
+Wisconsin,WI,Door County,0,1,0
+North Carolina,NC,Columbus County,0,0,0
+Ohio,OH,Gallia County,0,0,0
+Texas,TX,Taylor County,1,0,0
+Virginia,VA,Colonial Heights City,0,0,0
+Ohio,OH,Coshocton County,0,0,0
+Nebraska,NE,Perkins County,0,0,0
+Texas,TX,Hartley County,1,0,0
+Colorado,CO,Grand County,0,0,1
+Texas,TX,Jim Wells County,1,0,0
+Iowa,IA,Winnebago County,0,0,0
+California,CA,San Luis Obispo County,1,0,1
+Alabama,AL,Henry County,0,0,0
+Ohio,OH,Wyandot County,0,0,0
+Texas,TX,Zapata County,0,0,0
+Georgia,GA,Lee County,0,0,0
+Kentucky,KY,Boyd County,0,0,1
+Minnesota,MN,Carver County,0,0,0
+Nebraska,NE,Colfax County,0,0,0
+South Carolina,SC,Chesterfield County,0,0,0
+Tennessee,TN,Lewis County,0,0,0
+Oregon,OR,Washington County,1,0,1
+Virginia,VA,Virginia Beach City,1,0,0
+Montana,MT,Madison County,0,0,1
+Virginia,VA,Lancaster County,0,1,0
+Missouri,MO,Bates County,0,0,0
+New Hampshire,NH,Belknap County,0,0,1
+Virginia,VA,Richmond County,0,0,0
+Alaska,AK,Skagway Municipality,0,1,1
+Alaska,AK,Hoonah-Angoon Census Area,1,1,0
+Washington,WA,Franklin County,1,0,1
+Iowa,IA,Ida County,0,0,0
+Kansas,KS,Sedgwick County,1,0,0
+Texas,TX,Travis County,1,0,1
+Florida,FL,Hillsborough County,1,0,1
+New Jersey,NJ,Mercer County,1,0,1
+Nebraska,NE,Butler County,0,0,0
+Pennsylvania,PA,Westmoreland County,1,0,1
+Florida,FL,Charlotte County,1,0,0
+Iowa,IA,Cass County,0,0,0
+Ohio,OH,Mercer County,0,0,0
+Kentucky,KY,Johnson County,0,0,0
+Rhode Island,RI,Kent County,1,0,1
+Vermont,VT,Windham County,0,0,1
+Vermont,VT,Orleans County,0,0,0
+Kansas,KS,Jackson County,0,0,0
+Louisiana,LA,Franklin Parish,0,0,0
+Mississippi,MS,Webster County,0,0,0
+Massachusetts,MA,Franklin County,0,0,1
+Nebraska,NE,Cherry County,1,0,0
+Montana,MT,Beaverhead County,0,0,0
+Missouri,MO,New Madrid County,0,0,0
+Arkansas,AR,Hempstead County,0,0,1
+Missouri,MO,Camden County,0,0,0
+Virginia,VA,Mecklenburg County,1,0,0
+Kentucky,KY,Webster County,0,0,0
+Oklahoma,OK,Garfield County,1,0,0
+Washington,WA,Skamania County,0,0,0
+Michigan,MI,Lenawee County,0,0,1
+Georgia,GA,Gilmer County,0,0,0
+Minnesota,MN,Roseau County,0,0,0
+Mississippi,MS,Madison County,0,0,0
+Texas,TX,Howard County,0,0,0
+West Virginia,WV,Wayne County,1,0,0
+Connecticut,CT,Fairfield,1,0,1
+Connecticut,CT,Hartford,1,1,1
+Connecticut,CT,Litchfield,0,0,0
+Connecticut,CT,Middlesex,0,1,1
+Connecticut,CT,Newhaven,1,1,1
+Connecticut,CT,Newlondon,1,1,1
+Connecticut,CT,Tolland,0,0,0
+Connecticut,CT,Windham,0,0,0

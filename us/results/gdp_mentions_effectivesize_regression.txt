@@ -1,0 +1,14 @@
+GDP vs Mention Count Regression Analysis:
+Number of samples (communities): 131
+Regression equation: mention_count = 0.000001 * GDP + -6.458281
+R-squared: 0.906059
+P-value: 0.000000
+========================================
+
+GDP vs Effective Size Regression Analysis:
+R-squared: 0.29889853665428434
+Coefficient: 9.303381483116943e-08
+P-value: 3.037043066653708e-32
+
+========================================
+

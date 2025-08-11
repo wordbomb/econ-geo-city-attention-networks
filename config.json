@@ -1,0 +1,18 @@
+{
+    "cn": {
+        "country":"cn",
+        "community_detection_seed":1,
+        "cpm_k": 4,
+        "start_date":"2022-03-07",
+        "end_date":"2022-06-19",
+        "airport_weight": 0.3
+    },
+    "us": {
+        "country":"us",
+        "community_detection_seed":24,
+        "cpm_k": 8,
+        "start_date":"2021-12-01",
+        "end_date":"2022-03-31",
+        "airport_weight": 0.7
+    }
+}
