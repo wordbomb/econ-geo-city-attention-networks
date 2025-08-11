@@ -3,5 +3,6 @@
 /louvain_visualization/
 /__pycache__/
 /*/__pycache__/
+.DS_Store
 test.ipynb
 file_structure.txt
