@@ -10,8 +10,8 @@ The study investigates how economic and geographical factors influence the colle
 econ-geo-city-attention-networks/
 │
 ├── 1_Ranking_Calculation.py               # Step 1: Ranking calculation of city mentions
-├── 2_Regression_Analysis.py               # Step 2: Regression analysis (OLS / Poisson)
-├── 3_Community_Detection.py                # Step 3: Community detection algorithms (Louvain, CPM, etc.)
+├── 2_Regression_Analysis.py               # Step 2: Regression analysis
+├── 3_Community_Detection.py                # Step 3: Community detection algorithms (Louvain, LPA, LD, DN.)
 ├── 4_Community_Features.py                 # Step 4: Compute community-level features
 ├── 5_CPM.py                                # Step 5: Clique Percolation Method implementation
 ├── 6_LDA.py                                # Step 6: LDA topic modeling per community
@@ -20,7 +20,7 @@ econ-geo-city-attention-networks/
 ├── main.py                                 # Main entry point for pipeline execution
 ├── util.py                                 # Utility functions shared across scripts
 ├── stopwords.txt                           # Custom stopwords for LDA
-├── config.json                             # Configuration file for file paths & parameters
+├── config.json                             # Configuration file for parameters
 ├── readme.md                               # Project README
 │
 ├── cn/                                     # China dataset and analysis results
