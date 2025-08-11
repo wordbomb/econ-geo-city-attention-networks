@@ -5,7 +5,8 @@ The study investigates how economic and geographical factors influence the colle
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+```
 econ-geo-city-attention-networks/
 │
 ├── 1_Ranking_Calculation.py               # Step 1: Ranking calculation of city mentions
@@ -31,10 +32,10 @@ econ-geo-city-attention-networks/
 │   ├── data_collection/                    # Data crawling and preprocessing scripts
 │   ├── input_data/                         # Input datasets (geojson, csv, xlsx)
 │   ├── results/                            # Output results (Excel, PDF, regression outputs)
-
+```
 ---
 
-## ⚙️ Installation
+##  Installation
 
 **Clone the repository**
 ```bash
@@ -42,7 +43,7 @@ git clone https://github.com/wordbomb/econ-geo-city-attention-networks
 cd econ-geo-city-attention-networks
 ```
 
-## ▶️ Usage
+##  Usage
 You can run the full analysis pipeline with:
 ```bash
 python main.py cn  # Execute code for China
