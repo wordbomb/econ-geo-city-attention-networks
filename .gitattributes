@@ -1,1 +1,2 @@
 us/input_data/county_boundary.json filter=lfs diff=lfs merge=lfs -text
+us/data/usa_adm2_distances.txt filter=lfs diff=lfs merge=lfs -text
