@@ -21,7 +21,7 @@ def main(country_code="us"):
         # "5_CPM",
         # "6_LDA",
         # "7_Economic_Indicators_Calculation",
-        "Appendix"
+        # "Appendix"
     ]:
         module = importlib.import_module(module_name)
         module.run(country_path,config[country_code])
@@ -31,6 +31,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         country_code = sys.argv[1]
     else:
-        country_code = "us"  # Default country
+        country_code = "cn"  # Default country
 
     main(country_code)
